@@ -1,0 +1,777 @@
+  ( 1 of 1 )
+United States Patent 7,579,344
+Heaton ,   et al. August 25, 2009
+Pyrimidine derivatives possessing cell-cycle inhibitors activity
+
+Abstract
+Compounds of the formula (I), and pharmaceutically acceptable salts and in vivo hydrolysable esters thereof are described. Also described are processes for their preparation and their use as medicaments, particularly medicaments for producing a cell cycle inhibitory (anti cell proliferation) effect in a warm blooded animal, such as man. ##STR00001##
+Inventors: Heaton; David William (Macclesfield, GB), Thomas; Andrew Peter (Macclesfield, GB)
+Assignee: Astrazeneca AB (Sodertalje, SE)
+Family ID: 9958207
+Appl. No.: 10/556,607
+Filed: May 12, 2004
+PCT Filed: May 12, 2004
+PCT No.: PCT/GB2004/002019
+371(c)(1),(2),(4) Date: November 14, 2005
+PCT Pub. No.: WO2004/101564
+PCT Pub. Date: November 25, 2004
+Prior Publication Data
+Document Identifier Publication Date
+US 20060229329 A1 Oct 12, 2006
+Foreign Application Priority Data
+May 16, 2003 [GB] 0311274.5
+Current U.S. Class: 514/230.5; 514/275; 544/105; 544/331
+Current CPC Class: C07D 471/04 (20130101); C07D 487/04 (20130101)
+Current International Class: C07D 471/04 (20060101); A61K 31/415 (20060101); C07D 487/04 (20060101)
+Field of Search: ;544/105,331 ;514/230.5,275
+References Cited [Referenced By]
+U.S. Patent Documents
+4983608 January 1991 Effland et al.
+5516775 May 1996 Zimmerman et al.
+5521184 May 1996 Zimmermann
+5610303 March 1997 Kimura et al.
+5739143 April 1998 Adams et al.
+5859041 January 1999 Liverton et al.
+6835726 December 2004 Cushing et al.
+2003/0144303 July 2003 Hawley et al.
+2003/0191307 October 2003 Blumenkopf et al.
+2006/0079543 April 2006 Sum et al.
+Foreign Patent Documents
+2231765 Sep 1998 CA
+0135472 Jan 1989 EP
+0363002 Jun 1994 EP
+0379806 Apr 1996 EP
+1056742 Jul 2003 EP
+0945443 Aug 2003 EP
+220630 Mar 2002 HU
+WO 91/18887 Dec 1991 WO
+WO 92/20642 Nov 1992 WO
+WO 95/09847 Apr 1995 WO
+WO 95/09851 Apr 1995 WO
+WO 95/09852 Apr 1995 WO
+WO 95/09853 Apr 1995 WO
+WO 95/15952 Jun 1995 WO
+WO 96/05177 Feb 1996 WO
+WO 96/28427 Sep 1996 WO
+WO 96/40143 Dec 1996 WO
+WO 97/19065 May 1997 WO
+WO 97/35856 Oct 1997 WO
+WO 97/40017 Oct 1997 WO
+WO 97/44326 Nov 1997 WO
+WO 9747618 Dec 1997 WO
+WO 98/11095 Mar 1998 WO
+WO 98/16230 Apr 1998 WO
+WO 98/18782 May 1998 WO
+WO 98/25619 Jun 1998 WO
+WO 98/33798 Aug 1998 WO
+WO 98/41512 Sep 1998 WO
+WO 98/54093 Dec 1998 WO
+WO 98/56788 Dec 1998 WO
+WO 99/01136 Jan 1999 WO
+WO 99/18096 Apr 1999 WO
+WO 99/18942 Apr 1999 WO
+WO 99/31073 Jun 1999 WO
+WO 99/32121 Jul 1999 WO
+WO 99/41253 Aug 1999 WO
+WO 99/50250 Oct 1999 WO
+WO 99/50251 Oct 1999 WO
+WO 00/12485 Mar 2000 WO
+WO 00/12486 Mar 2000 WO
+WO 00/17202 Mar 2000 WO
+WO 00/17203 Mar 2000 WO
+WO 00/21926 Apr 2000 WO
+WO 00/25780 May 2000 WO
+WO 00/26209 May 2000 WO
+WO 00/39101 Jul 2000 WO
+WO 00/44750 Aug 2000 WO
+WO 00/49018 Aug 2000 WO
+WO 00/53595 Sep 2000 WO
+WO 00/55161 Sep 2000 WO
+WO 00/59892 Oct 2000 WO
+WO 00/78731 Dec 2000 WO
+WO 01/14375 Mar 2001 WO
+WO 01/29009 Apr 2001 WO
+WO 01/30778 May 2001 WO
+WO 01/37835 May 2001 WO
+WO 01/47897 Jul 2001 WO
+WO 01/47921 Jul 2001 WO
+WO 01/60816 Aug 2001 WO
+WO 01/64653 Sep 2001 WO
+WO 01/64654 Sep 2001 WO
+WO 01/64655 Sep 2001 WO
+WO 01/64656 Sep 2001 WO
+WO 01/72717 Oct 2001 WO
+WO 02/04429 Jan 2002 WO
+WO 02/20512 Mar 2002 WO
+WO 02/46170 Jun 2002 WO
+WO 02/46171 Jun 2002 WO
+WO 02/065979 Aug 2002 WO
+WO 02/066480 Aug 2002 WO
+WO 02/066481 Aug 2002 WO
+WO 02/092573 Nov 2002 WO
+WO 02/096887 Dec 2002 WO
+WO 02/096888 Dec 2002 WO
+WO 03/007955 Jan 2003 WO
+WO 03/011837 Feb 2003 WO
+WO 03/029249 Apr 2003 WO
+WO 03/031446 Apr 2003 WO
+WO 03/037891 May 2003 WO
+WO 03/076433 Sep 2003 WO
+WO 03/076434 Sep 2003 WO
+WO 03/076435 Sep 2003 WO
+WO 03/076436 Sep 2003 WO
+WO 2004/005282 Jan 2004 WO
+WO 2004/005283 Jan 2004 WO
+WO 2004/043467 May 2004 WO
+WO 2004/043953 May 2004 WO
+WO 2004/087698 Oct 2004 WO
+WO 2004/087699 Oct 2004 WO
+WO 2004/101549 Nov 2004 WO
+WO 2004/101564 Nov 2004 WO
+WO 2005/012298 Feb 2005 WO
+WO 2005/037800 Apr 2005 WO
+WO 2005/068452 Jul 2005 WO
+WO 2005/075461 Aug 2005 WO
+WO 2005/075468 Aug 2005 WO
+WO 2005/113550 Dec 2005 WO
+WO 2005/116025 Dec 2005 WO
+WO 2006/034872 Apr 2006 WO
+WO 2006/044509 Apr 2006 WO
+WO 2006/050076 May 2006 WO
+WO 2006/064251 Jun 2006 WO
+WO 2006/075152 Jul 2006 WO
+WO 2006/095159 Sep 2006 WO
+WO 2007/015064 Feb 2007 WO
+WO 2007/036732 Apr 2007 WO
+WO 2007/040440 Apr 2007 WO
+WO 2007/138268 Dec 2007 WO
+WO 2007/138277 Dec 2007 WO
+WO 2007/148070 Dec 2007 WO
+
+Other References
+
+Traxler, Protein tyrosine kinase inhibitors in cancer treatment, Expert Opinion on Therapeutic Patents, 7(6), pp. 571-588, 1997. cited by examiner .
+Lu Valle et al., Cell Cycle Control in Growth Plate Chondrocytes, Frontiers in Biosciences 5, d493-503, May 2000. cited by examiner .
+Fiziol Akt Veshchestva 7:68-72 (1975) (Translation enclosed). cited by other .
+Blain, S. et al. "Differential interaction of the cyclin-dependent kinase (Cdk) inhibitor p27.sup.Kip1 with cyclin A-Cdk2 and cyclin D2-Cdk4" The Journal of Biological Chemistry, 1997, vol. 272, No. 41, pp. 25863-25872. cited by other .
+Boschelli, D. et al. "Synthesis and tyrosine kinase inhibitory activity of a series of 2-amino-8H-pyrido[2,3-d]pyrimidines: identification of potent, selective platelet-derived growth factor receptor tyrosine kinase inhibitors" J. Med. Chem., 1998, vol. 41, pp. 4365-4377. cited by other .
+Deady L. et al. "Reactions of some quinazoline compounds with ethoxymethylenemalonic acid derivatives" J. Heterocyclic Chem., 1989, vol. 26, pp. 161-168. cited by other .
+El-Kerdawy, M. et al. "2,4-Bis(substituted)-5-nitropyrimidines of expected diuretic action" Egypt. J. Chem., 1986, 29, vol. 2, No. 2, pp. 247-251. cited by other .
+Fiziol Akt Veshchestva, 1975, 7, pp. 68-72. cited by other .
+Ghosh, D. et al. "2,4-Bis(arylamino)-5-methylpyrimidines as antimicrobial agents" J. Med. Chem., 1967, vol. 10, pp. 974-975. cited by other .
+Ghosh, D., "2,4-Bis(arylamino)-6-methyl pyrimidines as antimicrobial agents" Chemical Abstracts, 1981, vol. 95, No. 11, Colombus, Ohio, US; Abstract No. 97712f; pp. 648; XP002109184 abstract & J. Indian Chem. Soc., 1981, vol. 58, No. 5, pp. 512-513, India. cited by other .
+Schmidt, H. et al. "A convenient synthesis of 2-substituted 4-amino-5-pyrimidinecarbonitriles" J. Heterocyclic Chem., 1987, vol. 24, pp. 1305-1307. cited by other .
+Simone, J. "Oncology: introduction" Bennett, J. Textbook of Medicine, 20th Edition, vol. 1, 1996, pp. 1004-1010. cited by other .
+Volin, M. et al. "Cell cycle implications in the pathogenesis of rheumatoid arthritis" Frontiers in Bioscience, 2000, 5, d594-601. cited by other .
+Zimmermann, J. et al. "Phenylamino-pyrimidine (PAP) derivatives: a new class of potent and selective inhibitors of protein kinase C (PKC)" Arch. Pharm. Pharm. Med. Chem. 1996, 329 (7), pp. 371-376. cited by other .
+Anderson et al. "Imidazo[1,2-a]pyridines: A potent and selective class of cyclin-dependent kinase inhibitors identified through structure-based hybridisation" Bioorganic & Medicinal Chemistry Letters 13(18):3021-3026 (2003). cited by other .
+Byth et al. "Imidazo[1,2-a]pyridines. Part 2: SAR and optimisation of a potent and selective class of cyclin-dependent kinase inhibitors" Bioorganic & Medicinal Chemistry Letters 14(9): 2245-2248 (2004). cited by other .
+Byth et al. "Imidazo[1,2-b]pyridazines: a potent and selective class of cyclin-dependent kinase inhibitors" Bioorganic & Medicinal Chemistry Letters 14(9): 2249-2252 (2004). cited by other .
+Byth et al. "The cellular phenotype of AZ703, a novel selective imidazo[1,2-a]pyridine cyclin-dependent kinase inhibitor" Molecular Cancer Therapeutics 5 (3):655-664 (2006). cited by other.
+
+Primary Examiner: Rao; Deepak
+Attorney, Agent or Firm: Morgan Lewis & Bockius LLP
+Claims
+
+
+The invention claimed is:
+
+1. A compound of formula (I): ##STR00026## wherein: Ring A is carbocyclyl or heterocyclyl fused to the imidazole ring; R.sup.1 is halo, nitro, cyano, hydroxy, amino, carboxy, carbamoyl, mercapto, C.sub.1-6alkyl, C.sub.1-6alkoxy, C.sub.2-6alkenyl or C.sub.2-6alkynyl; p is 0-4; wherein the values of R.sup.1 may be the same or different; R.sup.2 is sulphamoyl or a group R.sup.a--R.sup.b--; q is 0-2; wherein the values of R.sup.2 maybe the same or different; and wherein p+q=0-5; R.sup.3 is halo, nitro, cyano, hydroxy, trifluoromethyl, trifluoromethoxy, amino, carboxy, carbamoyl, mercapto, sulphamoyl, C.sub.1-3alkyl, C.sub.2-3alkenyl, C.sub.2-3alkynyl, C.sub.1-3alkoxy, C.sub.1-3alkanoyl, N--(C.sub.1-3alkyl)amino, N,N--(C.sub.1-3alkyl).sub.2amino, C.sub.1-3alkanoylamino, N--(C.sub.1-3alkyl)carbamoyl, N,N--(C.sub.1-3alkyl).sub.2carbamoyl, C.sub.1-3alkyl S(O).sub.a wherein a is 0 to 2, N--(C.sub.1-3alkyl)sulphamoyl or N,N--(C.sub.1-3alkyl).sub.2sulphamoyl; wherein R.sup.3 may be optionally substituted on carbon by one or more R.sup.c; n is 0 to 2, wherein the values of R.sup.3 may be the same or different; R.sup.4 and R.sup.5 are independently selected from hydrogen, halo, nitro, cyano, hydroxy, trifluoromethoxy, amino, carboxy, carbamoyl, mercapto, sulphamoyl, C.sub.1-6alkyl, C.sub.2-6alkenyl, C.sub.2-6alkynyl, C.sub.1-6alkoxy, C.sub.1-6alkanoyl, C.sub.1-6alkanoyloxy, N--(C.sub.1-6alkyl)amino, N,N--(C.sub.1-6alkyl).sub.2amino, C.sub.1-6alkanoylamino, N--(C.sub.1-6alkyl)carbamoyl, N,N--(C.sub.1-6alkyl).sub.2carbamoyl, C.sub.1-6alkylS(O).sub.a wherein a is 0 to 2, C.sub.1-6alkoxycarbonyl, N--(C.sub.1-6alkyl)sulphamoyl, N,N--(C.sub.1-6alkyl).sub.2sulphamoyl, C.sub.1-6allylsulphonylamino, C.sub.3-8cycloalkyl or a 4-7 membered saturated heterocyclic group; wherein R.sup.4 and R.sup.5 may be optionally substituted on carbon by one or more R.sup.e; and wherein if said 4-7 membered saturated heterocyclic group contains an --NH-- moiety that nitrogen may be optionally substituted by a group selected from R.sup.f; m is 0-4; wherein the values of R.sup.4 may be the same or different; R.sup.a is selected from C.sub.1-6alkyl, C.sub.2-6alkenyl, C.sub.2-6alkynyl, C.sub.3-8cycloalkyl, C.sub.3-8cycloalkylC.sub.1-6alkyl, phenyl, a heterocyclic group, phenylC.sub.1-6alkyl or (heterocyclic group)C.sub.1-6alkyl; wherein R.sup.a may be optionally substituted on carbon by one or more R.sup.g; and wherein if said heterocyclic group contains an --NH-- moiety that nitrogen may be optionally substituted by a group selected from R.sup.h; R.sup.b is --C(O)--, --N(R.sup.m)C(O)--, --C(O)N(R.sup.m)--, --S(O).sub.r--, --OC(O)N(R.sup.m)SO.sub.2--, --SO.sub.2N(R.sup.m)-- or --N(R.sup.m)SO.sub.2--; wherein R.sup.m is hydrogen or C.sub.1-6alkyl optionally substituted by one or more R.sup.i and r is 1-2; R.sup.g and R.sup.i are independently selected from halo, nitro, cyano, hydroxy, amino, carboxy, carbamoyl, mercapto, sulphamoyl, C.sub.1-6alkyl, C.sub.2-6alkenyl, C.sub.2-6alkynyl, C.sub.1-6alkoxy, C.sub.1-6alkoxyC.sub.1-6alkoxy, C.sub.1-6alkoxyC.sub.1-6alkoxyC.sub.1-6alkoxy, C.sub.1-6alkanoyl, C.sub.1-6alkanoyloxy, N--(C.sub.1-6alkyl)amino, N,N--(C.sub.1-6alkyl).sub.2amino, C.sub.1-6alkanoylamino, N--(C.sub.1-6alkyl)carbamoyl, N,N--(C.sub.1-6alkyl).sub.2carbamoyl, C.sub.1-6alkylS(O).sub.a wherein a is 0 to 2, C.sub.1-6alkoxycarbonyl, N--(C.sub.1-6alkyl)sulphamoyl, N,N--(C.sub.1-6alkyl).sub.2sulphamoyl, C.sub.1-6alkylsulphonylamino, C.sub.3-8cycloalkyl, phenyl, heterocyclic group, phenylC.sub.1-6alkyl-R.sup.o--, (heterocyclic group)C.sub.1-6alkyl-R.sup.o--, phenyl-R.sup.o-- or (heterocyclic group)-R.sup.o--; wherein R.sup.g and R.sup.i independently of each other may be optionally substituted on carbon by one or more R.sup.j; and wherein if said heterocyclic group contains an --NH-- moiety that nitrogen may be optionally substituted by a group selected from R.sup.k; R.sup.o is --O--, --N(R.sup.p)--, --C(O)--, --N(R.sup.p)C(O)--, --C(O)N(R.sup.p)--, --S(O).sub.s--, --SO.sub.2N(R.sup.p)-- or --N(R.sup.p)SO.sub.2--; wherein R.sup.p is hydrogen or C.sub.1-6alkyl and s is 0-2; R.sup.f, R.sup.h and R.sup.k are independently selected from C.sub.1-4alkyl, C.sub.1-4alkanoyl, C.sub.1-4alkylsulphonyl, C.sub.1-4alkoxycarbonyl, carbamoyl, N--(C.sub.1-4alkyl)carbamoyl, N,N--(C.sub.1-4alkyl)carbamoyl, benzyl, benzyloxycarbonyl, benzoyl and phenylsulphonyl; wherein R.sup.f, R.sup.h and R.sup.k independently of each other may be optionally substituted on carbon by on or more R.sup.l; and R.sup.c, R.sup.e, R.sup.l and R.sup.j are independently selected from halo, nitro, cyano, hydroxy, trifluoromethoxy, trifluoromethyl, amino, carboxy, carbamoyl, mercapto, sulphamoyl, methyl, ethyl, methoxy, ethoxy, acetyl, acetoxy, methylamino, ethylamino, dimethylamino, diethylamino, N-methyl-N-ethylamino, acetylamino, N-methylcarbamoyl, N-ethylcarbamoyl, N,N-dimethylcarbamoyl, N,N-diethylcarbamoyl, N-methyl-N-ethylcarbamoyl, methylthio, ethylthio, methylsulphinyl, ethylsulphinyl, mesyl, ethylsulphonyl, methoxycarbonyl, ethoxycarbonyl, N-methylsulphamoyl, N-ethylsulphamoyl, N,N-dimethylsulphamoyl, N,N-diethylsulphamoyl or N-methyl-N-ethylsulphamoyl; or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+2. A compound of formula (I) according to claim 1 wherein Ring A is cyclopentyl, cyclohexyl or morpholino fused to the imidazole ring or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+3. A compound of formula (I) according to claim 1 wherein R.sup.1 is halo or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+4. A compound of formula (I) according to claim 1 wherein p is 0 or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+5. A compound of formula (I) according to claim 1 wherein R.sup.2 is a group R.sup.a--R.sup.b--; wherein R.sup.a is selected from C.sub.1-6alkyl optionally substituted on carbon by one or more R.sup.g; R.sup.b is --N(R.sup.m)SO.sub.2--; wherein R.sup.m is hydrogen; and R.sup.g is C.sub.1-6alkoxy or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+6. A compound of formula (I) according to claim 1 wherein q is 0 or 1 or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+7. A compound of formula (I) according to claim 1 wherein R.sup.3 is halo or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+8. A compound of formula (I) according to claim 1 wherein n is 0 or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+9. A compound of formula (I) according to claim 1 wherein R.sup.4 is hydrogen or C.sub.1-6alkyl or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+10. A compound of formula (I) according to claim 1 wherein m is 0 or 1 or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+11. A compound of formula (I) according to claim 1 wherein: Ring A is cyclopentyl, cyclohexyl or morpholino fused to the imidazole ring; p is 0; R.sup.2 is N-(2-methoxyethyl)sulphamoyl or N-(2-ethoxyethyl)sulphamoyl; q is 0 or 1; n is 0; R.sup.4 is hydrogen or methyl; and R.sup.5 is hydrogen; m is 0 or 1; or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+12. A process for preparing a compound of formula (I), according to claim 1, or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof which process (wherein variable groups are, unless otherwise specified, as defined in claim 1) comprises: Process a) reacting a pyrimidine of formula (II): ##STR00027## wherein L is a displaceable group; with an aniline of formula (III): ##STR00028## or Process b) reacting a compound of formula (IV): ##STR00029## with a compound of formula (V): ##STR00030## wherein T is O or S; R.sup.x may be the same or different and is selected from C.sub.1-6alkyl; or Process c) for compounds of formula (I) where R.sup.2 is sulphamoyl or a group R.sup.a--R.sup.b-- and R.sup.b is --NHSO.sub.2--; reacting a pyrimidine of formula (VI): ##STR00031## wherein X is a displaceable group; with ammonia or an amine of formula (VII): R.sup.a--NH.sub.2 (VII); or Process d) for compounds of formula (I); reacting a pyrimidine of formula (VIII) ##STR00032## with a compound of formula (IX): ##STR00033## where Y is a displaceable group; or Process e) cyclizing a compound of formula (X): ##STR00034## and thereafter optionally: i) converting a compound of the formula (I) into another compound of the formula (I); ii) removing any protecting groups; iii) forming a pharmaceutically acceptable salt or in vivo hydrolysable ester.
+
+13. A pharmaceutical composition which comprises a compound of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, according to claim 1, in association with a pharmaceutically-acceptable diluent or carrier.
+
+14. A method of treating rheumatoid arthritis, in a warm-blooded animal in need of such treatment, which comprises administering to said animal an effective amount of a compound of formula (I) or a pharmaceutically acceptable salt or in vivo ester thereof, as claimed in claim 1.
+Description
+
+
+This application is a 371 of PCT/GB04/02019 filed May 12, 2004.
+
+The invention relates to pyrimidine derivatives, or pharmaceutically acceptable salts or in vivo hydrolysable esters thereof, which possess cell-cycle inhibitory activity and are accordingly useful for their anti-cell-proliferation (such as anti-cancer) activity and are therefore useful in methods of treatment of the human or animal body. The invention also relates to processes for the manufacture of said pyrimidine derivatives, to pharmaceutical compositions containing them and to their use in the manufacture of medicaments of use in the production of an anti-cell-proliferation effect in a warm-blooded animal such as man.
+
+The cell cycle is fundamental to the survival, regulation and proliferation of cells and is highly regulated to ensure that each step progresses in a timely and orderly manner. The progression of cells through the cell cycle arises from the sequential activation and de-activation of several members of the cyclin-dependent kinase (CDK) family. The activation of CDKs is dependent on their interaction with a family of intracellular proteins called cyclins Cyclins bind to CDKs and this association is essential for CDK (such as CDK1, CDK2, CDK4 and/or CDK6) activity within the cell. Different cyclins are expressed and degraded at different points in the cell cycle to ensure that activation and inactivation of CDKs occurs in the correct order for progression through the cell cycle.
+
+Moreover, CDKs appear to be downstream of a number of oncogene signalling pathways. Disregulation of CDK activity by upregulation of cyclins and/or deletion of endogenous inhibitors appears to be an important axis between mitogenic signalling pathways and proliferation of tumour cells.
+
+Accordingly it has been recognised that an inhibitor of cell cycle kinases, particularly inhibitors of CDK1, CDK2 and/or CDK4 (which operate at the G2/M, G1-S-G2/M and G1-S phase respectively) should be of value as a selective inhibitor of cell proliferation, such as growth of mammalian cancer cells.
+
+WO 02/20512, WO 03/076435, WO 03/076436, WO 03/076434 and WO 03/076433 describe certain 2-anilino-4-imidazolylpyrimidine derivatives that inhibit the effect of cell cycle kinases. The present invention is based on the discovery that a novel group of 2-anilino-4-bicyclicpyrimidines surprisingly inhibit the effects of cell cycle kinases showing selectivity for CDK1, CDK2and CDK3, and thus possess anti-cell-proliferation properties. The compounds of the present invention are not specifically disclosed in any of the above applications. Such properties are expected to be of value in the treatment of disease states associated with aberrant cell cycles and cell proliferation such as cancers (solid tumours and leukerias), fibroproliferative and differentiative disorders, psoriasis, rheumatoid arthritis, Kaposi's sarcoma, haemangioma, acute and chronic nephropathies, atheroma, atherosclerosis, arterial restenosis, autoimmune diseases, acute and chronic inflammation, bone diseases and ocular diseases with retinal vessel proliferation.
+
+Accordingly, the present invention provides a compound of formula (I):
+
+##STR00002## wherein:
+
+Ring A is carbocyclyl or heterocyclyl fused to the imidazole ring;
+
+R.sup.1 is halo, nitro, cyano, hydroxy, amino, carboxy, carbamoyl, mercapto, C.sub.1-6alkyl, C.sub.1-6alkoxy, C.sub.2-6alkenyl or C.sub.2-6alkynyl;
+
+p is 0-4; wherein the values of R.sup.1 may be the same or different;
+
+R.sup.2 is sulphamoyl or a group R.sup.a--R.sup.b--;
+
+q is 0-2; wherein the values of R.sup.2 maybe the same or different; and wherein p+q=0-5;
+
+R.sup.3 is halo, nitro, cyano, hydroxy, trifluoromethyl, trifluoromethoxy, amino, carboxy, carbamoyl, mercapto, sulphamoyl, C.sub.1-3alkyl, C.sub.2-3alkenyl, C.sub.2-3alkynyl, C.sub.1-3alkoxy, C.sub.1-3alkanoyl, N--(C.sub.1-3alkyl)amino, N)N--(C.sub.1-3alkyl).sub.2amino, C.sub.1-3alkanoylamino, N--(C.sub.1-3alkyl)carbamoyl, N,N--(C.sub.1-3alkyl).sub.2carbamoyl, C.sub.1-3alkylS(O).sub.a wherein a is 0 to 2, N--(C.sub.1-3alkyl)sulphamoyl or N,N--(C.sub.1-3alkyl).sub.2sulphamoyl; wherein R.sup.3 may be optionally substituted on carbon by one or more R.sup.c;
+
+n is 0 to 2, wherein the values of R.sup.3 may be the same or different;
+
+R.sup.4 and R.sup.5 are independently selected from hydrogen, halo, nitro, cyano, hydroxy, trifluoromethoxy, amino, carboxy, carbamoyl, mercapto, sulphamoyl, C.sub.1-6alkyl, C.sub.2-6alkenyl, C.sub.2alkynyl, C.sub.1-6alkoxy, C.sub.1-6alkanoyl, C.sub.1-6alkanoyloxy, N--(C.sub.1-6yl)amino, N,N--(C.sub.1-6alkyl).sub.2amino, C.sub.1-6alkanoylamino, N--(C.sub.1-6alkyl)carbamoyl, N,N--C.sub.1-6alkyl).sub.2carbamoyl, C.sub.1-6alkylS(O).sub.a wherein a is 0 to 2, C.sub.1-6alkoxycarbonyl, N--(C.sub.1-6alkyl)sulphamoyl, N,N--(C.sub.1-6alkyl).sub.2sulphamoyl, C.sub.1-6alkylsulphonylamino, C.sub.3-8cycloalkyl or a 4-7 membered saturated heterocyclic group; wherein R.sup.4 and R.sup.5 may be optionally substituted on carbon by one or more R.sup.e; and wherein if said 4-7 membered saturated heterocyclic group contains an --NH-- moiety that nitrogen may be optionally substituted by a group selected from R.sup.f;
+
+m is 0-4; wherein the values of R.sup.4 may be the same or different;
+
+R.sup.a is selected from C.sub.1-6alkyl, C.sub.2-6alkenyl, C.sub.2-6alkynyl, C.sub.3-8cycloalkyl, C.sub.3-8cycloalkylC.sub.1-6allyl, phenyl, a heterocyclic group, phenylC.sub.1-6alkyl or (heterocyclic group)C.sub.1-6alkyl; wherein R.sup.a may be optionally substituted on carbon by one or more R.sup.g; and wherein if said heterocyclic group contains an --NH-- moiety that nitrogen may be optionally substituted by a group selected from R.sup.h;
+
+R.sup.b is --C(O)--, --N(R.sup.m)C(O)--, --C(O)N(R.sup.m)--, --S(O).sub.r--, --OC(O)N(R.sup.m)SO.sub.2--, --SO.sub.2N(R.sup.m)-- or --N(R.sup.m)SO.sub.2--; wherein R.sup.m is hydrogen or C.sub.1-6alkyl optionally substituted by one or more R.sup.j and r is 1-2;
+
+R.sup.g and R.sup.i are independently selected from halo, nitro, cyano, hydroxy, amino, carboxy, carbamoyl, mercapto, sulphamoyl, C.sub.1-6alkyl, C.sub.2-6alkenyl, C.sub.2-6alkynyl, C.sub.1-6alkoxy, C.sub.1-6alkoxyC.sub.1-6alkoxy, C.sub.1-6alkoxyC.sub.1-6alkoxyC.sub.1-6alkoxy, C.sub.1-6alkanoyl, C.sub.1-6alkanoyloxy, N--(C.sub.1-6alkyl)amino, N,N--(C.sub.1-6alkyl).sub.2amino, C.sub.1-6alkanoylamino, N-(C.sub.1-6alkyl)carbamoyl, N,N--(C.sub.1-6alkyl).sub.2carbamoyl, C.sub.1-6alkylS(O).sub.a wherein a is 0 to 2, C.sub.1-6alkoxycarbonyl, N--(C.sub.1-6alkyl)sulphamoyl, N,N--(C.sub.1-6alkyl).sub.2sulphamoyl, C.sub.1-6alkylsulphonylamino, C.sub.3-8cycloalkyl, phenyl, heterocyclic group, phenylC.sub.1-6alkyl-R.sup.o--, (heterocyclic group)C.sub.1-6alkyl-R.sup.o--, phenyl-R.sup.o-- or (heterocyclic group)-R.sup.o--; wherein R.sup.g and R.sup.i independently of each other may be optionally substituted on carbon by one or more R.sup.j; and wherein if said heterocyclic group contains an --NH-- moiety that nitrogen may be optionally substituted by a group selected from R.sup.k;
+
+R.sup.o is --O--, --N(R.sup.P)--, --C(O)--, --N(R.sup.P)C(O)--, --C(O)N(R.sup.P)--, --S(O).sub.s--, --SO.sub.2N(R.sup.P)-- or --N(R.sup.P)SO.sub.2--; wherein R.sup.P is hydrogen or C.sub.1-6alkyl and s is 0-2;
+
+R.sup.f, R.sup.h and R.sup.k are independently selected from C.sub.1-4alkyl, C.sub.1-4alkanoyl, C.sub.1-4alkylsulphonyl, C.sub.1-4alkoxycarbonyl, carbamoyl, N--(C.sub.1-4alkyl)carbamoyl, N,N--(C.sub.1-4alkyl)carbamoyl, benzyl, benzyloxycarbonyl, benzoyl and phenylsulphonyl; wherein R.sup.f, R.sup.h and R.sup.k independently of each other may be optionally substituted on carbon by on or more R.sup.l; and
+
+R.sup.c, R.sup.e, R.sup.l and R.sup.j are independently selected from halo, nitro, cyano, hydroxy, trifluoromethoxy, trifluoromethyl, amino, carboxy, carbamoyl, mercapto, sulphamoyl, methyl, ethyl, methoxy, ethoxy, acetyl acetoxy, methylamino, ethylamino, dimethylamino, diethylamino, N-methyl-N-ethylamino, acetylamino, N-methylcarbamoyl, N-ethylcarbamoyl, N,N-dimethylcarbamoyl, N,N-diethylcarbamoyl, N-methyl-N-ethylcarbamoyl, methylthio, ethylthio, methylsulphinyl, ethylsulphinyl, mesyl, ethylsulphonyl, methoxycarbonyl, ethoxycarbonyl, N-methylsulphamoyl, N-ethylsulphamoyl, N,N-dimethylsulphamoyl, N,N-diethylsulphamoyl or N-methyl-N-ethylsulphamoyl;
+
+or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+In this specification the term "alkyl" includes both straight and branched chain alkyl groups but references to individual alkyl groups such as "propyl" are specific for the straight chain version only. For example, "C.sub.1-6alkyl" includes C.sub.1-4alkyl, C.sub.1-3alkyl, propyl, isopropyl and t-butyl. However, references to individual alkyl groups such as `propyl` are specific for the straight chained version only and references to individual branched chain alkyl groups such as `isopropyl` are specific for the branched chain version only. A similar convention applies to other radicals, for example "phenylC.sub.1-6alkyl" includes phenylC.sub.1-4alkyl, benzyl, 1-phenylethyl and 2-phenylethyl. The term "halo" refers to fluoro, chloro, bromo and iodo.
+
+Where optional substituents are chosen from "one or more" groups it is to be understood that this definition includes all substituents being chosen from one of the specified groups or the substituents being chosen from two or more of the specified groups.
+
+A "carbocyclyl" is a saturated 5-7 membered carbon ring fused to the imidazole ring of formula (I) as shown; wherein a --CH.sub.2-- group can optionally be replaced by a --C(O)--. Suitable values of "carbocyclyl" are cyclopentyl, cyclohexyl and cycloheptyl forming 6,7-dihydro-5H-pyrrolo[1,2-a]imidazole; 5,6,7,8-tetrahydroimidazo[1,2-a]pyridine; and 6,7,8,9-tetrahydro-5H-imidazo[1,2-a]azepine ring systems respectively when fused to the imidazole ring of formula (I).
+
+A "heterocyclyl" is a saturated 5-7 membered ring of which at least one atom is chosen from nitrogen, sulphur or oxygen, which is fused to the imidazole ring of formula (I) as shown; wherein a --CH.sub.2-- group can optionally be replaced by a --C(O)--. Suitable values of "heterocyclyl" are pyrrolidinyl, tetrahydropyranyl, piperidinyl and homopiperidinyl forming for example 2,3-dihydro-1H-imidazo[1,2-a]imidazole, 5,6-dihydro-8H-imidazo[2,1-c][1,4]oxazine; 5,6,7,8-tetrahydroimidazo[1,2-a]pyrazine; and 6,7,8,9-tetrahydro-5H-imidazo[1,2-a][1,4]diazepine ring systems respectively when fused to the imidazole ring of formula (I).
+
+A "heterocyclic group" is a saturated, partially saturated or unsaturated, mono or bicyclic ring containing 4-12 atoms of which at least one atom is chosen from nitrogen, sulphur or oxygen, which may, unless otherwise specified, be carbon or nitrogen linked, wherein a --CH.sub.2-- group can optionally be replaced by a --C(O)--, a ring nitrogen atom may optionally bear a C.sub.1-6alkyl group and form a quaternary compound or a ring nitrogen and/or sulphur atom may be optionally oxidised to form the N-oxide and or the S-oxides. Examples and suitable values of the term "heterocyclic group" are morpholino, piperidyl, pyridyl, pyranyl, pyrrolyl, isothiazolyl, indolyl, quinolyl, thienyl, 1,3-benzodioxolyl, thiadiazolyl, piperazinyl, thiazolidinyl, pyrrolidinyl, thiomorpholino, pyrrolinyl, homopiperazinyl, 3,5-dioxapiperidinyl, tetrahydropyranyl, imidazolyl, pyrimidyl, pyrazinyl, pyridazinyl, isoxazolyl, N-methylpyrrolyl, 4-pyridone, 1-isoquinolone, 2-pyrrolidone, 4-thiazolidone, pyridine-N-oxide and quinoline-N-oxide. Preferably a "heterocyclic group" is a saturated, partially saturated or unsaturated, mono or bicyclic ring containing 5 or 6 atoms of which at least one atom is chosen from nitrogen, sulphur or oxygen, it may, unless otherwise specified, be carbon or nitrogen linked, a --CH.sub.2-- group can optionally be replaced by a --C(O)-- and a ring sulphur atom may be optionally oxidised to form the S-oxides. More preferably a "heterocyclic group" is tetrahydrofiryl, pyridyl, pyrrolidinonyl, morpholino, imidazolyl, piperidinyl or pyrrolidinyl. Particularly a "heterocyclic group" is tetrahydrofiryl or morpholino. In another aspect of the invention, particularly a "heterocyclic group" is tetrahydrofuran-2-yl, 2-oxopyrrolidin-1-yl, furan-2-yl, oxazolyl, morpholino, piperidinyl, thiazolyl, pyrazinyl, isoxazolyl, tetrahydropyran, pyridyl, isoxazolyl, isothiazolyl, 1,2,5-thiadiazolyl, phthalimido.
+
+A "4-7 membered saturated heterocyclic group" is a saturated monocyclic ring containing 4-7 atoms of which at least one atom is chosen from nitrogen, sulphur or oxygen, which may, unless otherwise specified, be carbon or nitrogen linked, wherein a --CH.sub.2-- group can optionally be replaced by a --C(O)-- and a sulphur atom may be optionally oxidised to form the S-oxides. Examples and suitable values of the term "heterocyclic group" are morpholino, piperidyl, 1,4dioxanyl, 1,3-dioxolanyl, 1,2-oxathiolanyl, imidazolidinyl, pyrazolidinyl, piperazinyl, thiazolidinyl, pyrrolidinyl, thiomorpholino, homopiperazinyl and tetrahydropyranyl.
+
+An example of "C.sub.1-6alkanoyloxy" is acetoxy. Examples of "C.sub.1-6alkoxycarbonyl" include C.sub.1-4alkoxycarbonyl, methoxycarbonyl, ethoxycarbonyl, n- and t-butoxycarbonyl. Examples of "C.sub.1-6alkoxy" include C.sub.1-4alkoxy, C.sub.1-3alkoxy, methoxy, ethoxy and propoxy. Examples of "C.sub.1-6alkanoylaminol" include formamido, acetamido and propionylamino. Examples of "C.sub.1-6alkylS(O).sub.a wherein a is 0 to 2" include C.sub.1-4alkylsulphonyl, methylthio, ethylthio, methylsulphinyl, ethylsulphinyl, mesyl and ethylsulphonyl. Examples of "C.sub.1-6alkylS(O).sub.r wherein r is 1 to 2" include methylsulphinyl, ethylsulphinyl, mesyl and ethylsulphonyl. Examples of "C.sub.1-6alkanoyl" include C.sub.1-4alkanoyl, propionyl and acetyl. Examples of "N--C.sub.1-6alkylamino" include methylamino and ethylamino. Examples of "N,N--(C.sub.1-6alkyl).sub.2amino" include di-N-methylamino, di-(N-ethyl)amino and N-ethyl-N-methylamino. Examples of "C.sub.2-6alkenyl" are vinyl, allyl and 1-propenyl. Examples of "C.sub.2-6alkynyl" are ethynyl, 1-propynyl and 2-propynyl. Examples of "N--(C.sub.1-6alkyl)sulphamoyl" are N-(methyl)sulphamoyl and N-(ethyl)sulphamoyl. Examples of "N--(C.sub.1-6alkyl).sub.2sulphamoyl" are N,N-(dimethyl)sulphamoyl and N-(methyl)-N-(ethyl)sulphamoyl. Examples of "N--(C.sub.1-6alkyl)carbamoyl" are N--(C.sub.1-4alkyl)carbamoyl, methylaminocarbonyl and ethylaminocarbonyl. Examples of "N,N--(C.sub.1-6alkyl).sub.2carbamoyl" are N,N--(C.sub.1-4alkyl).sub.2carbamoyl, dimethylaminocarbonyl and methylethylaminocarbonyl. Examples of "C.sub.3-8-cycloalkyl" are cyclopropyl, cyclobutyl, cyclopropyl and cyclohexyl. Examples of "(heterocyclic group)C.sub.1-6alkyl" include pyridylmethyl, 3-morpholinopropyl and 2-pyrimid-2-ylethyl. Examples of "C.sub.3-8cycloalkylC.sub.1-6alkyl" are cyclopropylethyl, cyclobutylmethyl, 2-cyclopropylpropyl and cyclohexylethyl.
+
+A suitable pharmaceutically acceptable salt of a compound of the invention is, for example, an acid-addition salt of a compound of the invention which is sufficiently basic, for example, an acid-addition salt with, for example, an inorganic or organic acid, for example hydrochloric, hydrobromic, sulphuric, phosphoric, trifluoroacetic, citric or maleic acid. In addition a suitable pharmaceutically acceptable salt of a compound of the invention which is sufficiently acidic is an alkali metal salt, for example a sodium or potassium salt, an alkaline earth metal salt, for example a calcium or magnesium salt, an ammonium salt or a salt with an organic base which affords a physiologically-acceptable cation, for example a salt with methylamine, dimethylamine, trimethylamine, piperidine, morpholine or tris-(2-hydroxyethyl)amine.
+
+An in vivo hydrolysable ester of a compound of the formula (I) containing carboxy or hydroxy group is, for example, a pharmaceutically acceptable ester which is hydrolysed in the human or animal body to produce the parent acid or alcohol. Suitable pharmaceutically acceptable esters for carboxy include C.sub.1-6alkoxymethyl esters for example methoxymethyl, C.sub.1-6alkanoyloxymethyl esters for example pivaloyloxymethyl, phthalidyl esters, C.sub.3-8cycloalkoxycarbonyloxyC.sub.1-6alkyl esters for example 1-cyclohexylcarbonyloxyethyl; 1,3-dioxolen-2-onylmethyl esters for example 5-methyl-1,3-dioxolen-2-onylmethyl; and C.sub.1-6alkoxycarbonyloxyethyl esters for example 1-methoxycarbonyloxyethyl and may be formed at any carboxy group in the compounds of this invention.
+
+An in vivo hydrolysable ester of a compound of the formula (I) containing a hydroxy group includes inorganic esters such as phosphate esters and .alpha.-acyloxyalkyl ethers and related compounds which as a result of the in vivo hydrolysis of the ester breakdown to give the parent hydroxy group. Examples of .alpha.-acyloxyalkyl ethers include acetoxymethoxy and 2,2-dimethylpropionyloxy-methoxy. A selection of in vivo hydrolysable ester forming groups for hydroxy include alkanoyl, benzoyl, phenylacetyl and substituted benzoyl and phenylacetyl, alkoxycarbonyl (to give alkyl carbonate esters), dialkylcarbamoyl and N-(dialkylaminoethyl)-N-alkylcarbamoyl (to give carbamates), dialkylaminoacetyl and carboxyacetyl. Examples of substituents on benzoyl include morpholino and piperazino linked from a ring nitrogen atom via a methylene group to the 3- or 4- position of the benzoyl ring.
+
+Some compounds of the formula (I) may have chiral centres and/or geometric isomeric centres (E- and Z- isomers), and it is to be understood that the invention encompasses all such optical, diastereoisomers and geometric isomers that possess CDK inhibitory activity.
+
+The invention relates to any and all tautomeric forms of the compounds of the formula (I) that possess CDK inhibitory activity.
+
+It is also to be understood that certain compounds of the formula (I) can exist in solvated as well as unsolvated forms such as, for example, hydrated forms. It is to be understood that the invention encompasses all such solvated forms which possess CDK inhibitory activity.
+
+Particular values of variable groups are as follows. Such values may be used where appropriate with any of the definitions, claims or embodiments defined hereinbefore or hereinafter.
+
+Ring A is carbocyclyl fused to the imidazole ring.
+
+Ring A is heterocyclyl fused to the imidazole ring.
+
+Ring A is cyclopentyl, cyclohexyl or morpholino fused to the imidazole ring.
+
+R.sup.1 is halo.
+
+R.sup.1 is fluoro or chloro.
+
+p is 0-2; wherein the values of R.sup.1 may be the same or different.
+
+p is 0 or 1.
+
+p is 2; wherein the values of R.sup.1 may be the same or different.
+
+p is 1.
+
+p is 0.
+
+R.sup.2 is a group R.sup.a--R.sup.b-- wherein R.sup.a is selected from C.sub.1-6alkyl optionally substituted on carbon by one or more R.sup.g; R.sup.b is --N(R.sup.m)SO.sub.2--; wherein R.sup.m is hydrogen; and R.sup.g is C.sub.1-6alkoxy.
+
+R.sup.2 is a group R.sup.a--R.sup.b-- wherein R.sup.a is selected from ethyl optionally substituted on carbon by one or more R.sup.g; R.sup.b is --N(R.sup.m)SO.sub.2--; wherein R.sup.m is hydrogen; and R.sup.g is methoxy or ethoxy.
+
+R.sup.2 is N-(2-methoxyethyl)sulphamoyl or N-(2-ethoxyethyl)sulphamoyl.
+
+q is 0 or 1.
+
+q is 1.
+
+q is 0.
+
+R.sup.3 is halo.
+
+R.sup.3 is fluoro, chloro or bromo.
+
+R.sup.3 is chloro or bromo.
+
+n is 0 or 1.
+
+n is 0.
+
+R.sup.4 is hydrogen or C.sub.1-6alkyl.
+
+R.sup.4 is hydrogen or methyl.
+
+R.sup.5 is hydrogen.
+
+m is 1-4; wherein the values of R.sup.4 may be the same or different.
+
+m is 0 or 1.
+
+m is 0.
+
+m is 1.
+
+Therefore in another aspect of the invention, there is provided a compound of formula (I) (as depicted above) wherein:
+
+Ring A is cyclopentyl, cyclohexyl or morpholino fused to the imidazole ring;
+
+p is 0;
+
+R.sup.2 is a group R.sup.a--R.sup.b-- wherein R.sup.a is selected from C.sub.1-6alkyl optionally substituted on carbon by one or more R.sup.g; R.sup.b is --N(R.sup.m)SO.sub.2--; wherein R.sup.m is hydrogen; and R.sup.g is C.sub.1-6alkoxy.
+
+q is 0 or 1;
+
+n is 0;
+
+R.sup.4 is hydrogen or C.sub.1-6alkyl;
+
+R.sup.5 is hydrogen;
+
+m is 0 or 1;
+
+or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+Therefore in another aspect of the invention, there is provided a compound of formula (I) (as depicted above) wherein:
+
+Ring A is cyclopentyl, cyclohexyl or morpholino fused to the imidazole ring;
+
+p is 0;
+
+R.sup.2 is N-(2-methoxyethyl)sulphamoyl or N-(2-ethoxyethyl)sulphamoyl;
+
+q is 0 or 1;
+
+n is 0;
+
+R.sup.4 is hydrogen or methyl;
+
+R.sup.5 is hydrogen;
+
+m is 0 or 1;
+
+or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof.
+
+In another aspect of the invention, preferred compounds of the invention are any one of the Examples or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof
+
+Preferred aspects of the invention are those which relate to the compound of formula (I) or a pharmaceutically acceptable salt thereof.
+
+Another aspect of the present invention provides a process for preparing a compound of formula (I) or a pharmaceutically acceptable salt or an in vivo hydrolysable ester thereof which process (wherein variable groups are, unless otherwise specified, as defined in formula (I)) comprises of:
+
+Process a) reaction of a pyrimidine of formula (II):
+
+##STR00003## wherein L is a displaceable group; with an aniline of formula (III):
+
+##STR00004## or Process b) reacting a compound of formula (IV):
+
+##STR00005##
+
+with a compound of formula (V):
+
+##STR00006## wherein T is O or S; R.sup.x may be the same or different and is selected from C.sub.1-6alkyl; Process c) for compounds of formula (I) where R.sup.2 is sulphamoyl or a group R.sup.a--R.sup.b-- and R.sup.b is --NHSO.sub.2--; reacting a pyrimidine of formula (VI):
+
+##STR00007## wherein X is a displaceable group; with ammonia or an amine of formula (VII): R.sup.a--NH.sub.2 (VII) Process d) for compounds of formula (I); reacting a pyrimidine of formula (VIII)
+
+##STR00008## with a compound of formula (IX):
+
+##STR00009## where Y is a displaceable group; Process e) cyclizing a compound of formula (X):
+
+##STR00010## and thereafter if necessary: i) converting a compound of the formula (I) into another compound of the formula (I); ii) removing any protecting groups; iii) forming a pharmaceutically acceptable salt or in vivo hydrolysable ester.
+
+L is a displaceable group, suitable values for L are for example, a halogeno or sulphonyloxy group, for example a chloro, bromo, methanesulphonyloxy or toluene-4-sulphonyloxy group.
+
+X is a displaceable group, suitable values for X are for example, a fluoro or chloro group. Preferably X is fluoro.
+
+Y is a displaceable group, suitable values for Y are for example, a halogeno or sulphonyloxy group, for example a bromo, iodo or trifluoromethanesulphonyloxy group. Preferably Y is iodo.
+
+Specific reaction conditions for the above reactions are as follows.
+
+Process a) Pyrimidines of formula (II) and anilines of formula (III) may be reacted together:
+
+i) in the presence of a suitable solvent for example a ketone such as acetone or an alcohol such as EtOH or butanol or an aromatic hydrocarbon such as toluene or N-methyl pyrrolidine, optionally in the presence of a suitable acid for example an inorganic acid such as hydrochloric acid or sulphuric acid, or an organic acid such as acetic acid or formic acid (or a suitable Lewis acid) and at a temperature in the range of 0.degree. C. to reflux, preferably reflux; or ii) under standard Buchwald conditions (for example see J. Am. Chem. Soc., 118, 7215; J. Am. Chem. Soc., 119, 8451; J. Org. Chem., 62, 1568 and 6066) for example in the presence of palladium acetate, in a suitable solvent for example an aromatic solvent such as toluene, benzene or xylene, with a suitable base for example an inorganic base such as caesium carbonate or an organic base such as potassium-t-butoxide, in the presence of a suitable ligand such as 2,2'-bis(diphenylphosphino)-1,1'-binaphthyl and at a temperature in the range of 25 to 80.degree. C.
+
+Pyrimidines of the formula (II) where L is chloro may be prepared according to Scheme 1:
+
+##STR00011##
+
+Anilines of formula (III) are commercially available compounds, or they are known in the literature, or they are prepared by standard processes known in the art.
+
+Process b) Compounds of formula (IV) and compounds of formula (V) are reacted together in a suitable solvent such as N-methylpyrrolidinone or butanol at a temperature in the range of 100-200.degree. C., preferably in the range of 150-170.degree. C. The reaction is preferably conducted in the presence of a suitable base such as, for example, sodium hydride, sodium methoxide or potassium carbonate.
+
+Compounds of formula (V) may be prepared according to Scheme 2:
+
+##STR00012##
+
+Compounds of formula (IV) and (Va) are commercially available compounds, or they are known in the literature, or they are prepared by standard processes known in the art.
+
+Process c) Compounds of formula (VI) and amines of formula (VII) may be reacted together in the presence of an inert solvent such as N-methylpyrrolidinone or pyridine, in the presence of a base for example an inorganic base such as caesium carbonate or in the presence of an organic base such as excess (VII) and at a temperature in the range of 25 to 80.degree. C.
+
+Compounds of formula (VI) (wherein X is chloro) may be prepared according to Scheme 3:
+
+##STR00013##
+
+Compounds of formula (VIa) may be prepared according to Process a, Process b or Process d wherein q is 0.
+
+Process d) Compounds of formula (VIII) and amines of formula (IX) may be reacted together under standard Buchwald conditions as described in Process a.
+
+The synthesis of compounds of formula (VIII) is described in Scheme 1.
+
+Compounds of formula (IX) are commercially available compounds, or they are known in the literature, or they are prepared by standard processes known in the art
+
+Amines of formula (VI) are commercially available compounds, or they are known in the literature, or they are prepared by standard processes known in the art.
+
+Process e) Compounds of formula (X) may be cyclised by treatment with ammonium salts, such as ammonium trifluoroacetate or ammonium acetate, at a temperature in the range of 120 to 160.degree. C. either neat or in an inert solvent such as NMP or DMA.
+
+Compounds of formula (X) may be prepared according to Scheme 4:
+
+##STR00014## wherein b is 1-3 and Y is hydrogen or R.sup.3.
+
+Compound (Xa) is commercially available.
+
+It will be appreciated that certain of the various ring substituents in the compounds of the present invention may be introduced by standard aromatic substitution reactions or generated by conventional functional group modifications either prior to or immediately following the processes mentioned above, and as such are included in the process aspect of the invention. Such reactions and modifications include, for example, introduction of a substituent by means of an aromatic substitution reaction, reduction of substituents, alkylation of substituents and oxidation of substituents. The reagents and reaction conditions for such procedures are well known in the chemical art Particular examples of aromatic substitution reactions include the introduction of a nitro group using concentrated nitric acid, the introduction of an acyl group using, for example, an acyl halide and Lewis acid (such as aluminium trichloride) under Friedel Crafts conditions; the introduction of an alkyl group using an alkyl halide and Lewis acid (such as aluminium trichloride) under Friedel Crafts conditions; and the introduction of a halogeno group. Particular examples of modifications include the reduction of a nitro group to an amino group by for example, catalytic hydrogenation with a nickel catalyst or treatment with iron in the presence of hydrochloric acid with heating; oxidation of alkylthio to alkylsulphinyl or alkylsulphonyl.
+
+It will also be appreciated that in some of the reactions mentioned herein it may be necessary/desirable to protect any sensitive groups in the compounds. The instances where protection is necessary or desirable and suitable methods for protection are known to those skilled in the art. Conventional protecting groups may be used in accordance with standard practice (for illustration see T. W. Green, Protective Groups in Organic Synthesis, John Wiley and Sons, 1991). Thus, if reactants include groups such as amino, carboxy or hydroxy it may be desirable to protect the group in some of the reactions mentioned herein.
+
+A suitable protecting group for an amino or alkylamino group is, for example, an acyl group, for example an alkanoyl group such as acetyl, an alkoxycarbonyl group, for example a methoxycarbonyl, ethoxycarbonyl or t-butoxycarbonyl group, an arylmethoxycarbonyl group, for example benzyloxycarbonyl, or an aroyl group, for example benzoyl. The deprotection conditions for the above protecting groups necessarily vary with the choice of protecting group. Thus, for example, an acyl group such as an alkanoyl or alkoxycarbonyl group or an aroyl group may be removed for example, by hydrolysis with a suitable base such as an alkali metal hydroxide, for example lithium or sodium hydroxide. Alternatively an acyl group such as a t-butoxycarbonyl group may be removed, for example, by treatment with a suitable acid as hydrochloric, sulphuric or phosphoric acid or trifluoroacetic acid and an arylmethoxycarbonyl group such as a benzyloxycarbonyl group may be removed, for example, by hydrogenation over a catalyst such as palladium-on-carbon, or by treatment with a Lewis acid for example boron tris(trifiuoroacetate). A suitable alternative protecting group for a primary amino group is, for example, a phthaloyl group which may be removed by treatment with an alkylamine, for example dimethylaminopropylamine, or with hydrazine.
+
+A suitable protecting group for a hydroxy group is, for example, an acyl group, for example an alkanoyl group such as acetyl, an aroyl group, for example benzoyl, or an arylmethyl group, for example benzyl. The deprotection conditions for the above protecting groups will necessarily vary with the choice of protecting group. Thus, for example, an acyl group such as an alkanoyl or an aroyl group may be removed, for example, by hydrolysis with a suitable base such as an alkali metal hydroxide, for example lithium or sodium hydroxide. Alternatively an arylmethyl group such as a benzyl group may be removed, for example, by hydrogenation over a catalyst such as palladium-on-carbon.
+
+A suitable protecting group for a carboxy group is, for example, an esterifying group, for example a methyl or an ethyl group which may be removed, for example, by hydrolysis with a base such as sodium hydroxide, or for example a t-butyl group which may be removed, for example, by treatment with an acid, for example an organic acid such as trifluoroacetic acid, or for example a benzyl group which may be removed, for example, by hydrogenation over a catalyst such as palladium-on-carbon.
+
+The protecting groups may be removed at any convenient stage in the synthesis using conventional techniques well known in the chemical art.
+
+As stated hereinbefore the compounds defined in the present invention possesses anti-cell-proliferation activity such as anti-cancer activity which is believed to arise from the CDK inhibitory activity of the compound. These properties may be assessed, for example, using the procedure set out below:
+
+Assay
+
+The following abbreviations have been used: HEPES is N-[2-Hydroxyethyl]piperazine-N-[2-ethanesulfonic acid] DTT is Dithiothreitol PMSF is Phenylmethylsulphonyl fluoride
+
+The compounds were tested in an in vitro kinase assay in 96 well format using Scintillation Proximity Assay (SPA - obtained from Amersham) for measuring incorporation of [.gamma.-33-P]-Adenosine Triphosphate into a test substrate (GST-Retinoblastoma protein; GST-Rb). In each well was placed the compound to be tested (diluted in DMSO and water to correct concentrations) and in control wells either roscovitine as an inhibitor control or DMSO as a positive control.
+
+Approximately 0.2 .mu.l of CDK2/Cyclin E partially-purified enzyme (amount dependent on enzyme activity) diluted in 25 .mu.l incubation buffer was added to each well then 20 .mu.l of GST-Rb/ATP/ATP33 mixture (containing 0.5 .mu.g GST-Rb and 0.2 .mu.M ATP and 0.14 .mu.Ci [.gamma.-33-P]-Adenosine Triphosphate in incubation buffer), and the resulting mixture shaken gently, then incubated at room temperature for 60 minutes.
+
+To each well was then added 150 .mu.L stop solution containing (0.8 mg/well of Protein A-PVT SPA bead (Amersham)), 20 pM/well of Anti-Glutathione Transferase, Rabbit IgG (obtained from Molecular Probes), 61 mM EDTA and 50 mM HEPES pH 7.5 containing 0.05% sodium azide.
+
+The plates were sealed with Topseal-S plate sealers, left for two hours then spun at 2500 rpm, 1124 xg., for 5 minutes. The plates were read on a Topcount for 30 seconds per well.
+
+The incubation buffer used to dilute the enzyme and substrate mixes contained 50 mM HEPES pH7.5, 10 mM MnCl.sub.2, 1 mM DTT, 100 .mu.M Sodium vanadate, 100 .mu.M NaF, 10 mM Sodium Glycerophosphate, BSA (1 mg/ml final).
+
+Test Substrate
+
+In this assay only part of the retinoblastoma protein (Science 1987 Mar. 13;235(4794):1394-1399; Lee W. H., Bookstein R., Hong F., Young L. J., Shew J. Y., Lee E. Y.) was used, fused to a GST tag. PCR of retinoblastoma gene encoding amino acids 379-928 (obtained from retinoblastoma plasmid ATCC pLRbRNL) was performed, and the sequence cloned into pGEx 2T fusion vector (Smith D. B. and Johnson, K. S. Gene 67, 31 (1988); which contained a tac promoter for inducible expression, internal lac I.sup.q gene for use in any E. Coli host, and a coding region for thrombin cleavage--obtained from Pharmacia Biotech) which was used to amplify amino acids 792-928. This sequence was again cloned into pGEx 2T.
+
+The retinoblastoma 792-928 sequence so obtained was expressed in E. Coli (BL21 (DE3) pLysS cells) using standard inducible expression techniques, and purified as follows.
+
+E. coli paste was resuspended in 10 ml/g of NETN buffer (50 mM Tris pH 7.5, 120 mM NaCl, 1 mM EDTA, 0.5% v/v NP-40, 1 mM PMSF, 1ug/ml leupeptin, 1ug/ml aprotinin and 1 ug/ml pepstatin) and sonicated for 2.times.45 seconds per 100 ml homogenate. After centrifugation, the supernatant was loaded onto a 10 ml glutathione Sepharose column (Pharmacia Biotech, Herts, UK), and washed with NETN buffer. After washing with kinase buffer (50 mM HEPES pH 7.5, 10 mM MgC12, 1 mM DTT, 1 mM PMSF, 1 ug/ml leupeptin, 1 ug/ml aprotinin and 1 ug/ml pepstatin) the protein was eluted with 50 mM reduced glutathione in kinase buffer. Fractions containing GST-Rb(792-927) were pooled and dialysed overnight against kinase buffer. The final product was analysed by Sodium Dodeca Sulfate (SDS) PAGE (Polyacrylamide gel) using 8-16% Tris-Glycine gels (Novex, San Diego, USA).
+
+CDK2 and Cyclin E
+
+The open reading frames of CDK2 and Cyclin E were isolated by reverse transcriptase-PCR using HeLa cell and activated T cell mRNA as a template and cloned into the insect expression vector pVL1393 (obtained from Invitrogen 1995 catalogue number: V1392-20). CDK2 and cyclin E were then dually expressed [using a standard virus Baculogold co-infection technique] in the insect SF21 cell system (Spodoptera Frugiperda cells derived from ovarian tissue of the Fall Army Worm--commercially available).
+
+Example Production of Cyclin E/CDK2
+
+The following Example provides details of the production of Cyclin E/CDK2 in SF21 cells (in TC100+10% FBS(TCS)+0.2% Pluronic) having dual infection MOI 3 for each virus of Cyclin E & CDK2.
+
+SF21 cells grown in aroller bottle culture to 2.33.times.10.sup.6 cells/ml were used to inoculate 10.times.500 ml roller bottles at 0.2.times.10E6 cells/ml. The roller bottles were incubated on a roller rig at 28.degree. C.
+
+After 3 days (72 hrs.) the cells were counted, and the average from 2 bottles found to be 1.86.times.10E6 cells/ml. (99% viable). The cultures were then infected with the dual viruses at an MOI 3 for each virus.
+
+The viruses were mixed together before addition to the cultures, and the cultures returned to the roller rig 28.degree. C.
+
+After 2 days (48 hrs.) post infection the 5 Litres of culture was harvested. The total cell count at harvest was 1.58.times.10E6 cells/ml.(99% viable). The cells were spun out at 2500 rpm, 30 mins., 4.degree. C. in Heraeus Omnifuge 2.0 RS in 250 ml. lots. The supernatant was discarded.
+
+Partial Co-Purification of Cdk2 and Cyclin E
+
+Sf21 cells were resuspended in lysis buffer (50 mM Tris pH 8.2, 10 mM MgCl.sub.2, 1 mM DTT, 10 mM glycerophosphate, 0.1 mM sodium orthovanadate, 0.1 mM NaF, 1 mM PMSF, 1 ug/ml leupeptin and 1 ug/ml aprotinin) and homogenised for 2 minutes in a 10 ml Dounce homgeniser. After centrifugation, the supernatant was loaded onto a Poros HQ/M 1.4/100 anion exchange column (PE Biosystems, Hertford, UK). Cdk2 and Cyclin E were coeluted at the beginning of a 0-1M NaCl gradient (run in lysis buffer minus protease inhibitors) over 20 column volumes. Co-elution was checked by western blot using both anti-Cdk2 and anti-Cyclin E antibodies (Santa Cruz Biotechnology, Calif., US).
+
+By analogy, assays designed to assess inhibition of CDK1 and CDK4 may be constructed. CDK2 (EMBL Accession No. X62071) may be used together with Cyclin A or Cyclin E (see EMBL Accession No. M73812), and further details for such assays are contained in PCT International Publication No. WO99/21845, the relevant Biochemical & Biological Evaluation sections of which are hereby incorporated by reference.
+
+Although the pharmacological properties of the compounds of the formula (I) vary with structural change, in general activity possessed by compounds of the formula (I) may be demonstrated at IC.sub.50 concentrations or doses in the range 250 .mu.M to 1 nM.
+
+The following IC.sub.50s were measured in the above assay.
+
+TABLE-US-00001 Example No IC.sub.50 2 21 nM 5 42 nM 9 13 nM
+
+The in vivo activity of the compounds of the present invention may be assessed by standard techniques, for example by measuring inhibition of cell growth and assessing cytotoxicity.
+
+Inhibition of cell growth may be measured by staining cells with Sulforhodamine B (SRB), a fluorescent dye that stains proteins and therefore gives an estimation of amount of protein (i.e. cells) in a well (see Boyd, M. R.(1989) Status of the NCI preclinical antitumour drug discovery screen. Prin. Prac Oncol 10:1-12). Thus, the following details are provided of measuring inhibition of cell growth:--
+
+Cells were plated in appropriate medium in a volume of 100 .mu.l in 96 well plates; media was Dulbecco's Modified Eagle media for MCF-7, SK-UT-1B and SK-UT-1. The cells were allowed to attach overnight, then inhibitor compounds were added at various concentrations in a maximum concentration of 1% DMSO (v/v). A control plate was assayed to give a value for cells before dosing. Cells were incubated at 37.degree. C., (5% CO.sub.2) for three days.
+
+At the end of three days TCA was added to the plates to a final concentration of 16% (v/v). Plates were then incubated at 4.degree. C. for 1 hour, the supernatant removed and the plates washed in tap water. After drying, 100 .mu.l SRB dye (0.4% SRB in 1% acetic acid) was added for 30 minutes at 37.degree. C. Excess SRB was removed and the plates washed in 1% acetic acid. The SRB bound to protein was solubilised in 10 mM Tris pH7.5 and shaken for 30 minutes at room temperature. The ODs were read at 540 nm, and the concentration of inhibitor causing 50% inhibition of growth was determined from a semi-log plot of inhibitor concentration versus absorbance. The concentration of compound that reduced the optical density to below that obtained when the cells were plated at the start of the experiment gave the value for toxicity.
+
+Typical IC.sub.50 values for compounds of the invention when tested in the SRB assay are in the range 1 mM to 1 nM.
+
+According to a further aspect of the invention there is provided a pharmaceutical composition which comprises a pyrimidine derivative of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, as defined hereinbefore in association with a pharmaceutically-acceptable diluent or carrier.
+
+The composition may be in a form suitable for oral administration, for example as a tablet or capsule, for parenteral injection (including intravenous, subcutaneous, intramuscular, intravascular or infusion) as a sterile solution, suspension or emulsion, for topical administration as an ointment or cream or for rectal administration as a suppository.
+
+In general the above compositions may be prepared in a conventional manner using conventional excipients.
+
+The compound of formula (I) will normally be administered to a warm-blooded animal at a unit dose within the range 5-5000 mg per square meter body area of the animal, i.e. approximately 0.1-100 mg/kg, and this normally provides a therapeutically-effective dose. A unit dose form such as a tablet or capsule will usually contain, for example 1-250 mg of active ingredient. Preferably a daily dose in the range of 1-50 mg/kg is employed. However the daily dose will necessarily be varied depending upon the host treated, the particular route of administration, and the severity of the illness being treated. Accordingly the optimum dosage may be determined by the practitioner who is treating any particular patient.
+
+According to a further aspect of the present invention there is provided a compound of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, as defined hereinbefore for use in a method of treatment of the human or animal body by therapy.
+
+We have found that the compounds defined in the present invention, or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, are effective cell cycle inhibitors (anti-cell proliferation agents), which property is believed to arise from their CDK inhibitory properties. Accordingly the compounds of the present invention are expected to be useful in the treatment of diseases or medical conditions mediated alone or in part by CDK enzymes, i.e. the compounds may be used to produce a CDK inhibitory effect in a warm-blooded animal in need of such treatment. Thus the compounds of the present invention provide a method for treating the proliferation of malignant cells characterised by inhibition of CDK enzymes, i.e. the compounds may be used to produce an anti-proliferative effect mediated alone or in part by the inhibition of CDKs. Such a compound of the invention is expected to possess a wide range of anti-cancer properties as CDKs have been implicated in many common human cancers such as leukaemia and breast, lung, colon, rectal, stomach, prostate, bladder, pancreas and ovarian cancer. Thus it is expected that a compound of the invention will possess anti-cancer activity against these cancers. It is in addition expected that a compound of the present invention will possess activity against a range of leukaemias, lymphoid malignancies and solid tumours such as carcinomas and sarcomas in tissues such as the liver, kidney, prostate and pancreas. In particular such compounds of the invention are expected to slow advantageously the growth of primary and recurrent solid tumours of, for example, the colon, breast, prostate, lungs and skin. More particularly such compounds of the invention, or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, are expected to inhibit the growth of those primary and recurrent solid tumours which are associated with CDKs, especially those tumours which are significantly dependent on CDKs for their growth and spread, including for example, certain tumours of the colon, breast, prostate, lung, vulva and skin.
+
+It is further expected that a compound of the present invention will possess activity against other cell-proliferation diseases in a wide range of other disease states including leukaemias, fibroproliferative and differentiative disorders, psoriasis, rheumatoid arthritis, Kaposi's sarcoma, haemangioma, acute and chronic nephropathies, atheroma, atherosclerosis, arterial restenosis, autoimmune diseases, acute and chronic inflammation, bone diseases and ocular diseases with retinal vessel proliferation.
+
+Thus according to this aspect of the invention there is provided a compound of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, as defined hereinbefore for use as a medicament; and the use of a compound of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, as defined hereinbefore in the manufacture of a medicament for use in the production of a cell cycle inhibitory (anti-cell-proliferation) effect in a warm-blooded animal such as man. Particularly, an inhibitory effect is produced by preventing entry into or progression through the S phase by inhibition of CDK2 and CDK4, especially CDK2, and M phase by inhibition of CDK1.
+
+According to a further feature of the invention, there is provided a compound of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, as defined herein before in the manufacture of a medicament for use in the treatment of cancers (solid tumours and leukaemias), fibroproliferative and differentiative disorders, psoriasis, rheumatoid arthritis, Kaposi's sarcoma, haemangioma, acute and chronic nephropathies, atheroma, atherosclerosis, arterial restenosis, autoimmune diseases, acute and chronic inflammation, bone diseases and ocular diseases with retinal vessel proliferation, particularly in the treatment of cancers.
+
+According to a further feature of this aspect of the invention there is provided a method for producing a cell cycle inhibitory (anti-cell-proliferation) effect in a warm-blooded animal, such as man, in need of such treatment which comprises administering to said animal an effective amount of a compound as defined immediately above. Particularly, an inhibitory effect is produced by preventing entry into or progression through the S phase by inhibition of CDK2 and CDK4, especially CDK2, and M phase by inhibition of CDK1.
+
+According to a further feature of this aspect of the invention there is provided a method for producing a cell cycle inhibitory (anti-cell-proliferation) effect in a warm-blooded animal, such as man, in need of such treatment which comprises administering to said animal an effective amount of a compound of formula (I) or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof as defined herein before. Particularly, an inhibitory effect is produced by preventing entry into or progression through the S phase by inhibition of CDK2 and CDK4, especially CDK2, and M phase by inhibition of CDK1.
+
+According to an additional feature of this aspect of the invention there is provided a method of treating cancers (solid tumours and leukaemias), fibroproliferative and differentiative disorders, psoriasis, rheumatoid arritis, Kaposi's sarcoma, haemangioma, acute and chronic nephropathies, atheroma, atherosclerosis, arterial restenosis, autoimmune diseases, acute and chronic inflammafion, bone diseases and ocular diseases with retinal vessel proliferation, in a warm-blooded animal, such as man, in need of such treatment which comprises administering to said animal an effective amount of a compound of formula (I) or a pharmaceutically acceptable salt or int vivo hydrolysable ester thereof as defined herein before.
+
+Particularly there is provided a method of treating cancer in a warm-blooded animal, such as man, in need of such treatment which comprises administering to said animal an effective amount of a compound of formula (I) or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof as defined herein before.
+
+In a further aspect of the invention there is provided a pharmaceutical composition which comprises a compound of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, as defined herein before in association with a pharmaceutically-acceptable diluent or carrier for use in the production of a cell cycle inhibitory (anti-cell-proliferation) effect in a warm-blooded animal such as man.
+
+In a further aspect of the invention there is provided a pharmaceutical composition which comprises a compound of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, as defined herein before in association with a pharmaceutically-acceptable diluent or carrier for use in the treatment of cancers (solid tumours and leukaemias), fibroproliferative and differentiative disorders, psoriasis, rheumatoid arthritis, Kaposi's sarcoma, haemangioma, acute and chronic nephropathies, atheroma, atherosclerosis, arterial restenosis, autoimmune diseases, acute and chronic inflammation, bone diseases and ocular diseases with retinal vessel proliferation, in a warm-blooded animal such as man.
+
+In a further aspect of the invention there is provided a pharmaceutical composition which comprises a compound of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, as defined herein before in association with a pharmaceutically-acceptable diluent or carrier for use in the treatment of cancer in a warm-blooded animal such as man.
+
+Preventing cells from entering DNA synthesis by inhibition of essential S-phase initiating activities such as CDK2 initiation may also be useful in protecting normal cells of the body from toxicity of cycle-specific pharmaceutical agents. Inhibition of CDK2 or 4 will prevent progression into the cell cycle in normal cells which could limit the toxicity of cycle-specific pharmaceutical agents which act in S-phase, G2 or mitosis. Such protection may result in the prevention of hair loss normally associated with these agents.
+
+Therefore in a further aspect of the invention there is provided a compound of formula (I) as defined above or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof for use as a cell protective agent.
+
+Therefore in a further aspect of the invention there is provided a compound of formula (I) as defined above or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof for use in preventing hair loss arising from the treatment of malignant conditions with pharmaceutical agents.
+
+Examples of pharmaceutical agents for treating malignant conditions that are known to cause hair loss include alkylating agents such as ifosfamide and cyclophosphamide; antimetabolites such as methotrexate, 5-fluorouracil, gemcitabine and cytarabine; vinca alkaloids and analogues such as vincristine, vinbalstine, vindesine, vinorelbine; taxanes such as paclitaxel and docetaxel; topoisomerase I inhibitors such as irintotecan and topotecan; cytotoxic antibiotics such as doxorubicin, daunorubicin, mitoxantrone, actinomycin-D and mitomycin; and others such as etoposide and tretinoin.
+
+In another aspect of the invention, the compound of formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, may be administered in association with a one or more of the above pharmaceutical agents. In this instance the compound of formula (I) may be administered by systemic or non systemic means. Particularly the compound of formula (I) my may administered by non-systemic means, for example topical administration.
+
+Therefore in an additional feature of the invention, there is provided a method of preventing hair loss during treatment for one or more malignant conditions with pharmaceutical agents, in a warm-blooded animal, such as man, which comprises administering to said animal an effective amount of a compound of formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof.
+
+In an additional feature of the invention, there is provided a method of preventing hair loss during treatment for one or more malignant conditions with pharmaceutical agents, in a warm-blooded animal, such as man, which comprises administering to said animal an effective amount of a compound of formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof in simultaneous, sequential or separate administration with an effective amount of said pharmaceutical agent.
+
+According to a further aspect of the invention there is provided a pharmaceutical composition for use in preventing hair loss arising from the treatment of malignant conditions with pharmaceutical agents which comprises a compound of formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, and said pharmaceutical agent, in association with a pharmaceutically acceptable diluent or carrier.
+
+According to a further aspect of the present invention there is provided a kit comprising a compound of formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof and a pharmaceutical agent for treating malignant conditions that is known to cause hair loss.
+
+According to a further aspect of the present invention there is provided a kit comprising: a) a compound of formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, in a first unit dosage form; b) a pharmaceutical agent for treating malignant conditions that is known to cause hair loss; in a second unit dosage form; and c) container means for containing said first and second dosage forms.
+
+According to another feature of the invention there is provided the use of a compound of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, in the manufacture of a medicament for the prevention of hair loss during treatment of malignant conditions with pharmaceutical agents.
+
+According to a further aspect of the present invention there is provided a combination treatment for the prevention of hair loss comprising the administration of an effective amount of a compound of the formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof, optionally together with a pharmaceutically acceptable diluent or carrier, with the simultaneous, sequential or separate administration of an effective amount of a pharmaceutical agent for treatment of malignant conditions to a warm-blooded animal, such as man.
+
+As stated above the size of the dose required for the therapeutic or prophylactic treatment of a particular cell-proliferation disease will necessarily be varied depending on the host treated, the route of administration and the severity of the illness being treated. A unit dose in the range, for example, 1-100 mg/kg, preferably 1-50 mg/kg is envisaged.
+
+The CDK inhibitory activity defined hereinbefore may be applied as a sole therapy or may involve, in addition to a compound of the invention, one or more other substances and/or treatments. Such conjoint treatment may be achieved by way of the simultaneous, sequential or separate administration of the individual components of the treatment. In the field of medical oncology it is normal practice to use a combination of different forms of treatment to treat each patient with cancer. In medical oncology the other component(s) of such conjoint treatment in addition to the cell cycle inhibitory treatment defined hereinbefore may be: surgery, radiotherapy or chemotherapy. Such chemotherapy may cover three main categories of therapeutic agent: (i) other cell cycle inhibitory agents that work by the same or different mechanisms from those defined hereinbefore; (ii) cytostatic agents such as antioestrogens (for example tamoxifen,toremifene, raloxifene, droloxifene, iodoxyfene), progestogens (for example megestrol acetate), aromatase inhibitors (for example anastrozole, letrazole, vorazole, exemestane), antiprogestogens, antiandrogens (for example flutamide, nilutamide, bicalutamide, cyproterone acetate), LHRH agonists and antagonists (for example goserelin acetate, luprolide), inhibitors of testosterone 5.alpha.-dihydroreductase (for example finasteride), anti-invasion agents (for example metalloproteinase inhibitors like marimastat and inhibitors of urokinase plasminogen activator receptor function) and inhibitors of growth factor function, (such growth factors include for example platelet derived growth factor and hepatocyte growth factor such inhibitors include growth factor antibodies, growth factor receptor antibodies, tyrosine kinase inhibitors and serine/threonine kinase inhibitors); and (iii) antiproliferative/antineoplastic drugs and combinations thereof, as used in medical oncology, such as antimetabolites (for example antifolates like methotrexate, fluoropyrimidines like 5-fluorouracil, purine and adenosine analogues, cytosine arabinoside); antitumour antibiotics (for example anthracyclines like doxorubicin, daunomycin, epirubicin and idarubicin, mitomycin-C, dactinomycin, mithramycin); platinum derivatives (for example cisplatin, carboplatin); alkylating agents (for example nitrogen mustard, melphalan, chlorambucil, busulphan, cyclophosphamide, ifosfamide, nitrosoureas, thiotepa); antimitotic agents (for example vinca alkaloids like vincristine and taxoids like taxol, taxotere); topoisomerase inhibitors (for example epipodophyllotoxins like etoposide and teniposide, amsacrine, topotecan). According to this aspect of the invention there is provided a pharmaceutical product comprising a compound of the formula (I) as defined hereinbefore and an additional anti-tumour substance as defined hereinbefore for the conjoint treatment of cancer.
+
+In addition to their use in therapeutic medicine, the compounds of formula (I) and their pharmaceutically acceptable salts are also useful as pharmacological tools in the development and standardisation of in vitro and in vivo test systems for the evaluation of the effects of inhibitors of cell cycle activity in laboratory animals such as cats, dogs, rabbits, monkeys, rats and mice, as part of the search for new therapeutic agents.
+
+In the above other pharmaceutical composition, process, method, use and medicament manufacture features, the alternative and preferred embodiments of the compounds of the invention described herein also apply.
+
+EXAMPLES
+
+The invention will now be illustrated by the following non limiting examples in which, unless stated otherwise: (i) temperatures are given in degrees Celsius (.degree. C.); operations were carried out at room or ambient temperature, that is, at a temperature in the range of 18-25.degree. C; (ii) organic solutions were dried over anhydrous magnesium sulphate; evaporation of solvent was carried out using a rotary evaporator under reduced pressure (600-4000 Pascals; 4.5-30 mmHg) with a bath temperature of up to 60.degree. C.; (iii) chromatography means flash chromatography on silica gel; thin layer chromatography (TLC) was carried out on silica gel plates; (iv) in general, the course of reactions was followed by TLC and reaction times are given for illustration only; (v) final products had satisfactory proton nuclear magnetic resonance (NMR) spectra and/or mass spectral data; (vi) yields are given for illustration only and are not necessarily those which can be obtained by diligent process development; preparations were repeated if more material was required; (vii) when given, NMR data is in the form of delta values for major diagnostic protons, given in parts per million (ppm) relative to tetramethylsilane (TMS) as an internal standard, determined at 300 MHz using perdeuterio dimethyl sulphoxide (DMSO-d.sub.6) as solvent unless otherwise indicated; (viii) chemical symbols have their usual meanings; SI units and symbols are used; (ix) solvent ratios are given in volume:volume (v/v) terms; and (x) mass spectra were run with an electron energy of 70 electron volts in the chemical ionization (CI) mode using a direct exposure probe; where indicated ionization was effected by electron impact (El), fast atom bombardment (FAB) or electrospray (ESP); values for m/z are given; generally, only ions which indicate the parent mass are reported; and unless otherwise stated, the mass ion quoted is (MH).sup.+; (xi) unless stated otherwise compounds containing an asymmetrically substituted carbon and/or sulphur atom have not been resolved; (xii) where a synthesis is described as being analogous to that described in a previous example the amounts used are the millimolar ratio equivalents to those used in the previous example; and (xvi) the following abbreviations have been used:
+
+THF tetrahydrofuran;
+
+DMF N,N-dimethylformamide;
+
+EtOAc ethyl acetate;
+
+MeOH methanol;
+
+EtOH ethanol;
+
+DCM dichloromethane; and
+
+DMSO dimethylsulphoxide.
+
+Example 1
+
+2-Anilino-4-(6,7-dihydro-5H-pyrrolo[1,2-a]imidazol-3-yl)pyrimidine
+
+A mixture of 2-anilino-4-[1-(pyrrolid-2-on-1-yl)-2-(dimethylamino)vinyl]pyrimidine (Method 6; 1.85 g, 5.72 mmol) and ammonium trifluoroacetate (7.5 g, 57.2 mmol) in dry N-methylpyrrolidinone was stirred and heated at 140.degree. C. under nitrogen for 18 hours and then at 150.degree. C. for 10 hours. The mixture was allowed to cool and the solvent removed by evaporation. The residue was partitioned between water and DCM and insolubles removed by filtration. The biphasic mixture was separated and the organic layer dried (Na.sub.2SO.sub.4) and the solvent removed by evaporation. The residue was purified by chromatography eluting with DCM/MeOH (98:2 and then 96.5:3.5). The purified product was triturated with diethyl ether, filtered and dried to give the title compound (120 mg, 8%) as a yellow solid. NMR: 2.55 (m, 2H), 2.78 (t, 2H), 4.33 (t, 2H), 6.95 (t, 1H), 7.08 (d, 1H), 7.27 (t, 2H), 7.7(d, 2H), 7.75 (s, 1H), 8.35 (d, 1H), 9.38 (s, 1H): m/z 278.
+
+Examples 2-5
+
+The following compounds were prepared by the procedure of Example 1 using the appropriate starting materials (wherein "*" represents the point of attachment to the pyrimidine ring):
+
+TABLE-US-00002 ##STR00015## Ex X NMR m/z SM .sup. 2.sup.1 ##STR00016## 1.87(m, 4H), 2.83(t, 2H), 4.42(t, 2H), 6.95(t, 1H), 7.08(d, 1H), 7.3(t, 2H), 7.68(m, 3H), 8.35(d, 1H), 9.37(s, 1H) 292 Meth 7 3 ##STR00017## 1.23(d, 3H), 2.23(m, 1H), 2.77(m, 2H), 2.9(m, 1H), 5.08(m, 1H), 6.97(t, 1H), 7.1(d, 1H), 7.3(t, 2H), 7.67(d, 2H), 7.77(s, 1H), 8.35(d, 1H), 9.35(s, 1H) 292 Meth 8 4 ##STR00018## 1.17(d, 3H), 1.9(m, 4H), 2.8(m, 2H), 5.53(m, 1H), 6.95(t, 1H), 7.08(d, 1H), 7.37(t, 2H), 7.65(m, 2H), 8.33(d, 1H), 9.33(s, 1H) 306 Meth 9 5 ##STR00019## 4.03(t, 2H), 4.47(t, 2H), 4.8(s, 2H), 6.95(t, 1H), 7.12(d, 1H), 7.27(t, 2H), 7.67(d, 2H), 7.77(s, 1H), 8.38(d, 1H), 9.4(s, 1H) 294 Meth 10 .sup.1Purified by chromatography eluting with DCM/MeOH(95:5).
+
+Example 6
+
+2-[4-(N-(2-Methoxyethyl)sulphamoyl)anilino]-4-(6,7-dihydro-5H-pyrrolo[,1,2- -a]imidazol-3-yl)pyrimidine
+
+Chlorosulphonic acid (143 .mu.l, 2.16 mmol) was added to a stirred suspension of 2-anilino-4-(6,7-dihydro-5H-pyrrolo[1,2-a]imidazol-3-yl)pyrimidine (Example 1; 150 mg, 0.54 mmol) in thionyl chloride (3.0 ml) at 0.degree. C. The mixture was stirred at 0.degree. C. for 10 minutes and then heated at reflux for 80 minutes. The mixture was allowed to cool and the excess thionyl chloride removed by evaporation. A solution of 2-methoxyethylamine (0.756 ml, 8.1 mmol) in MeOH (1.5 ml) was added to the residue and the mixture stirred at ambient temperature for 24 hours. The volatiles were removed by evaporation and the residue suspended in distilled water and stirred for 1 hour. The resulting solid was collected by filtration, washed with water and dried to give the title compound (182 mg, 81%) as a pale brown solid. NMR: 2.58 (m, 2H), 2.83 (m, 4H), 3.18 (s, 3H), 3.3 (t, 2H), 4.4 (t, 2H), 7.2 (d, 1H), 7.47 (s, 1H), 7.7 (d, 2H), 7.8 (s. 1H), 7.92 (d, 2H), 8.43 (d, 1H), 9.83 (s, 1H): m/z 415.
+
+Examples 7-9
+
+The following compounds were prepared by the procedure of Example 6 using the appropriate starting materials.
+
+TABLE-US-00003 ##STR00020## Ex R X NMR m/z SM 7 Me CH.sub.2 1.9(m, 4H), 2.86(m, 4H), 3.17(s, 3H), 429 Ex 2 3.3(t, 2H), 4.47(t, 2H), 7.2(d, 1H), 7.45(t, 1H), 7.7(m, 3H), 7.9(d, 2H), 8.4(d, 1H), 9.83(s, 1H) 8 Et CH.sub.2 1.0(t, 3H), 1.83(m, 4H), 2.78(m, 4H), 443 Ex 2 3.25(m, 4H), 4.4(t, 2H), 7.13(d, 1H), 7.40(t, 1H), 7.65(m, 3H), 7.83(d, 2H), 8.37(d, 1H), 9.80(s, 1H) 9 Me O 2.9(t, 2H), 3.17(s, 3H), 3.3(t, 2H), 4.04(t, 431 Ex 5 2H), 4.53(t., 2H), 4.83(s, 2H), 7.23(d, 1H), 7.43(s, 1H), 7.72(d, 2H), 7.8(s, 1H), 7.88(d, 2H), 8.45(d, 1H), 9.86(s, 2H):
+
+Example 10
+
+2-Anilino-4-(8-methyl-5,6,7,8-tetrahydroimidazo[1,2-a]pyridin-3-yl)pyrimid- ine
+
+n-Butyllithium (1.2 ml of a 1.6M solution in hexane, 1.92 mmol) was added slowly to a stirred solution of 2-anilino-4-(5,6,7,8-tetrahydroimidazo[1,2-a]pyridin-3-yl)pyrimidine (Example 2; 200 mg, 0.69 mmol) in dry THF (10 ml) cooled to -78.degree. C. under nitrogen making sure that the reaction temperature remained below -65.degree. C. The mixture was stirred at -70.degree. C. for 15 minutes, then iodomethane (45 .mu.l, 0.72 mmol) was added and the reaction stirred at -70.degree. C. for 10 minutes and then allowed to warm and stirred at ambient temperature for 20 hours. The reaction mixture was partitioned between EtOAc and water and the layers separated. The organic layer was washed with saturated brine, dried (Na.sub.2SO.sub.4) and the volatiles removed by evaporation. The residue was purified by chromatography eluting with DCM/MeOH (98:2). The purified product was twice triturated with diethyl ether, collected by filtration and dried to give the title compound (33 mg, 16%) as a pale yellow solid. NMR: 1.37 (d, 3H), 1.57 (m, 1H), 1.92 (m, 1H), 2.07 (m, 2H), 2.97 (m, 1H), 4.25 (m, 1H), 4.65 (m, 1H), 7.02 (t, 2H), 7.15 (d, 1H), 7.33 (t, 2H), 7.72 (m, 3H), 8.38 (d, 1H), 9.42 (s. 1H); m/z 306.
+
+Example 11
+
+2-Anilino-4(8-methyl-5.6-dihydro-8H-imidazo[2,1-c][1,4]oxazin-3-yl)pyrimid- ine
+
+By an analogous process to Example 10, 2-Anilino-4-(5,6-dihydro-8H-imidazo[2,1-c][1,4]oxazin-3-yl)pyrimidine (Example 5; 163 mg, 0.556 mmol) was treated with n-butyllithium (0.73 ml of a 1.6M solution in hexane, 1.168 mmol) and iodomethane (36 .mu.l, 0.583 mmol) to give the title compound (67 mg, 39%) as a pale yellow solid. NMR: 1.5 (d, 3H), 3.9 (m, 1H), 4.18 (m, 1H), 4.32 (m, 1H), 4.63 (m, 1H), 4.87 (q, 1H), 6.95 (t, 1H), 7.13 (d, 1H), 7.3 (t, 2H), 7.67 (d, 2H), 7.75 (s, 1H), 8.37 (d, 1H), 9.4 (s, 1H); m/z 308.
+
+Preparation of Starting Materials
+
+The starting materials for the above Examples are either commercially available or are readily prepared by standard methods from known materials. For example the following reactions are illustrations but not limitations of the preparation of some of the starting materials used in the above reactions.
+
+Method 1
+
+1,1-Dimethoxy-4-dimethylaminobut-3-en-2-one
+
+1,1-Dimethoxypropan-2-one (57.9 g, 0.459 mol) was added to dimethyl formamide dimethyl acetal (54.6 g, 0.459 mol) and the mixture stirred and heated at 100.degree. C. for 18 hours. The reaction mixture was allowed to cool and the volatiles removed by evaporation give the itle compound (79 g) as a red oil. NMR: (CDCl.sub.3): 2.90 (d, 3H), 3.10 (d, 3H), 3.40 (s, 6H), 4.56 (s, 1H), 5.34 (1H, d), 7.74 (d, 1H).
+
+Method 2
+
+2-Anilino-4-(dimethoxymethyl)pyrimidine
+
+A mixture of 1,1-dimethoxy-4-dimethylaminobut-3-en-2-one (Method 1; 20.0 g, 0.116 mol) and phenyl guanidine bicarbonate (25 g, 0.126 mol) in anhydrous dimethylacetamide (350 ml) was stirred and heated at 130.degree. C. under nitrogen for 18 hours. The reaction mixture was allowed to cool and the solvent removed by evaporation. The residue was dissolved in EtOAc and the solution washed with water (.times.5), saturated sodium chloride (.times.2), dried and evaporated to give the title compound (24.7 g, 88%) as a dark brown oil. NMR: (CDCl.sub.3): 3.42 (s, 6H), 5.20 (s, 1H), 6.94 (d, 1H), 7.04 (t, 1H), 7.31 (m, 3H), 7.64 (d, 2H), 8.47 (d, 1H), m/z: 246.
+
+Method 3
+
+2-Anilinopyrimidin-4-carbaldehyde
+
+A mixture of 2-anilino-4-(dimethoxymethyl)pyrimidine (Method 2; 26.5 g, 0.108 mol) and 3M hydrochloric acid (108 ml, 0.324 mol) was stirred and heated at 50.degree. C. for 18 hours. The reaction mixture was allowed to cool and the pH of the solution adjusted to 9 by careful addition of solid sodium carbonate. The mixture was extracted with EtOAc (5.times.100 ml). The combined extracts were washed with water (2.times.100 ml), dried (Na.sub.2SO.sub.4) and evaporated to give the title compound (16.2 g, 78%) as a brown solid. NMR: (CDCl.sub.3): 7.10 (t, 1H), 7.20 (d, 1H), 7.40 (t, 3H), 7.68 (d, 21), 8.64 (d, 1H), 9.90 (s, 1H), m/z 232 [MH+MeOH].sup.+.
+
+Method 4
+
+2-Anilino-4-(pyrrolid-2-on-1-ylmethyl)pyrimidine
+
+Triethylamine (1.52 ml, 11 mmol) was added to a mixture of 2-anilinopyrimidin-4-carbaldehyde (Method 3; 1.99 g, 10 mmol) and ethyl 4-aminobutyrate hydrochloride (1.84 g, 11 mmol) in MeOH (100 ml) and the mixture stirred at ambient temperature under nitrogen for 18 hours. The insolubles were removed by filtration and the volatiles removed from the filtrate by evaporation. The residue was suspended in EtOAc and further insoluble material removed by filtration and the filtrate evaporated. The residue was suspended in EtOH (200 ml) and stirred under nitrogen. Sodium borohydride (0.456 g, 12 mmol) was added in several portions and the reaction mixture then stirred at ambient temperature for 96 hours. The solvent was removed by evaporation, the residue dissolved in EtOAc (150 ml) and the solution washed with saturated brine, dried and the volatiles evaporated to give the title compound (2.2 g, 88%) as a yellow gum. NMR: (CDCl.sub.3) 2.12 (m, 2H), 2,47 (t, 2H), 3.45 (t, 2H), 4.44 (s, 2H), 6.62 (d, 1H), 7.04 (t, 1H), 7.32 (m, 3H), 7.61 (d, 2H), 8.35 (d, 1H), m/z 269.
+
+Method 5
+
+2-Anilino-4-(piperidin-2-on-1-ylmethyl)pyrimidine
+
+By an analogous process to Method 4, 2-anilinopyrimidin-4-carbaldehyde (Method 3; 3.24, 16.2 mmol) was treated with methyl 5-aminopentanoate hydrochloride (3.0 g, 17.9 mmol) to give the title compound (2.23 g, 51%) as a pale yellow solid. NMR: 1.85 (m, 4H), 2.5 (s, 2H), 3.4 (s, 2H), 4.58 (s, 2H), 6.63 (d, 1H), 7.05 (t, 1H), 7.3 (m, 3H), 7.62 (d, 2H), 8.34 (d, 1H); m/z 305.
+
+Method 6
+
+2-Anilino-4[1-(pyrrolid-2-on-1-yl)-2-(dimethylamino)vinyl]pyrimidine
+
+A mixture of 2-anilino-4-(pyrrolid-2-on-1-ylmethyl)pyrimidine (Method 4; 960 mg, 3.6 mmol) and tris-dimethylaminomethane (1.04 g, 7.2 mmol) in dry DMF (15 ml) was stirred and heated at 130.degree. C. under nitrogen for 6 hours. The reaction mixture was allowed to cool and the solvent removed by evaporation. The residue was triturated with a mixture of ether and distilled water and the solid product collected by filtration, washed with water and ether, and dried to give the title compound (745 mg, 81%) as a tan solid. NMR: (CDCl.sub.3): 2.11 (m, 2H), 2,45 (m, 2H), 3.00 (s, 6H), 3.38 (m, 1H), 3.72 (m, 1H), 6.20 (d, 1H), 7.00 (t, 1H), 7.08 (s, 1H), 7.27 (m, 2H), 7.58 (m, 2H), 7.7 (s, 1H), 8.11(d, 1H); m/z 324.
+
+Methods 7-10
+
+The following compounds were prepared by the procedure of Method 6 using the appropriate starting materials (wherein "*" represents the point of attachment).
+
+TABLE-US-00004 ##STR00021## Meth Ring A NMR m/z SM 7 ##STR00022## 1.9(m, 4H), 2.52(m, 2H), 3.0(s, 6H), 3.37(m, 2H), 6.22(d, 1H), 6.96(m, 1H), 7.3(m, 4H), 7.58(d, 2H), 7.65(s, 1H), 8.07(d, 1H) 338 Meth 5 8.sup.1 ##STR00023## 1.1(d, 3H), 1.7(m, 1H), 2.37(m, 3H), 3.83(m, 1H), 6.33(d, 1H), 6.92(t, 1H), 7.25(t, 2H), 7.7(m, 3H), 8.05(d, 1H), 8.6(s, 1H) 338 Meth 15 9.sup.1 ##STR00024## 1.17(d, 3H), 1.83(m, 4H), 2.4(m, 2H), 3.0(s, 6H), 3.7(q, 1H), 6.33(d, 1H), 6.93(t, 1H), 7.26(t, 2H), 7.63(s, 1H), 7.73(d, 1H), 8.05(d, 1H), 8.4(s, 1H) 352 Meth 18 10.sup.2 ##STR00025## 3.0(s, 6H), 3.38(m, 1H), 3.47(m, 1H), 3.93(t, 2H), 4.2(s, 2H), 6.4(d, 1H), 6.87(t, 1H), 7.23(t, 2H), 7.55(d, 1H), 7.73(d, 2H), 8.06(d, 1H), 9.07(s, 1H) 340 Meth 20 .sup.1NMR taken at 100.degree. C. .sup.2Product purified by chromatography eluting with DCM/MeOH (98:2 increasing in polarity to 94:6) prior to trituration.
+
+Method 11
+
+2-Anilinopyrimidine-4-carbaldehyde oxime
+
+A suspension of 2-anilinopyrimidin-4-carbaldehyde (Method 3; 10 g, 50 mmol) and hydroxylamine hydrochloride (17.4 g, 250 mmol) in EtOH (360 ml) and pyridine (17.4 g, 215 mmol) was stirred and heated at reflux for 1 hour. The reaction mixture was allowed to cool and concentrated to about 150 ml total volume by evaporation. Distilled water (600 ml) was added and the precipitated solid collected by filtration, washed thoroughly with distilled water and dried to give the title compound (9.86 g, 92%) as a white solid. NMR: 6.92 (t, 1H), 7.08 (d, 1H), 7.23 (t, 2H), 7.75 (d, 2H), 7.93 (s, 1H), 8.45 (d, 1H), 9.67 (s, 1H), 12.1 (s, 1H); m/z 215.
+
+Method 12
+
+2-Anlinoaminomethylpyrimidine
+
+Raney nickel (1.6 g of a 50% suspension in water) was added to a suspension of 2-anilinopyrimidine-4-carbaldehyde oxime (Method 11; 8.8 g, 41 mmol) in EtOH (100 ml) and liquid ammonia (10ml). The mixture was stirred under an atmosphere of hydrogen at 25.degree. C. and 5 bar pressure for 16 hours. The catalyst was removed by filtration through diatomaceous earth and the filter pad was washed thoroughly with EtOH and the filtrate evaporated. The residue was triturated with a mixture of diethyl ether and isohexane, the solid product collected by filtration, washed with isohexane and dried to give the title compound (7.11 g, 87%) as a pink solid. NMR: 3.3 (s, 2H), 3.7 (s, 2H), 6.9 (d, 2H), 7.23 (t, 2H), 7.78 (m, 2H), 8.4 (d, 1H), 9.45 (s, 1H); m/z 201.
+
+Method 13
+
+4-{[(2-Anilinopyrmidin-4-yl)methyl]amino}-4-oxobutanoic acid
+
+A mixture of 2-anilinoaminomethylpyrimidine (Method 12; 6.6 g, 32.5 mmol) and succinic anhydride (3.25 g, 32.5 mmol) in dry THF (130 ml) was stirred under nitrogen for 20 hours. The solvent was removed by evaporation and the residue stirred and triturated with EtOAc for 30 minutes. The solid product was collected filtration, washed with EtOAc and dried to give the title compound (8.75 g, 89.7%) as an off white solid NMR: 2.5 (m, 4H), 4.23 (d, 2H), 6.73 (d, 1H), 6.95 (t, 1H), 7.26 (t, 2H), 7.77 (d, 2H), 8.38 (d, 1H), 8.45 (t, 1H), 9.52 (s, 1H); m/z 301.
+
+Method 14
+
+5-{[(2-Anilinopyrimidin-4-yl)methyl]amino}-5-oxopentanoic acid
+
+By an analogous process to Method 13, 2-anilino-4-aminomethylpyrimidine (Method 12)(4.8 g, 24 mmol) was treated with glutaric anhydride (2.74 g, 24 mmol) to give the title compound (3.88 g, 51.7%) as a pale brown solid. NMR: 1.75 (m, 2H), 2.25 (t, 4H), 4.23 (d, 2H), 6.68 (d, 1H), 6.93 (t, 1H), 7.27 (t, 2H), 7.76 (d, 2H), 8.4 (d, 2H), 9.53 (s, 1H): m/z 315.
+
+Method 15
+
+2-Anilino-4-(2,5-dioxopyrrolidin-1-ylmethyl)pyrimidine
+
+1-[3-(Dimethylamino)propyl]3-ethylcarbodiimnide hydrochloride (4.44 g, 22 mmol) was added in one portion to a stirred mixture of 4-{[(2-anilinopyrimidin-4-yl)methyl]amino}-4-oxobutanoic acid (Method 13; 6.0 g, 20mmol) and pentafluorophenol (4.05 g, 22 mmol) in DMF (180 ml) under nitrogen. The reaction was stirred at ambient temperature under nitrogen for 20 hours and then the reaction mixture was concentrated by evaporation. The residue was partitioned between EtOAc and water. The layers were separated and the organic layer washed with water (2.times.) and saturated brine, dried (Na.sub.2SO.sub.4) and the volatiles removed by evaporation. The crude pentafluoroester was stirred in dry TBF (218 ml) under nitrogen at 0.degree. C. and sodium hydride (528 mg of a 60 % dispersion in oil, 22 mmol) added in one portion. The reaction mixture was stirred at 0.degree. C. for 15 minutes and then 72 hours at ambient temperature. Acetic acid (1.32 ml) was added and the reaction mixture was concentrated by evaporation. The residue was partitioned between EtOAc and water and the layers separated. The organic layer was washed with dilute aqueous sodium hydrogen carbonate solution (2.times.), water and saturated brine, dried (Na.sub.2SO.sub.4) and the volatiles removed by evaporation. The crude product was purified by chromatography eluting with EtOAc/isohexane (60:40 and then 100:0). The purified product was triturated with isohexane, collected by filtration and dried to give the title compound (2.65 g, 47%) as a white solid. NMR: 2.75 (s, 4H), 4.55 (s, 2H), 6.75 (d, 1H), 6.93 (t, 1H), 7.25 (t, 2H), 7.64 (d, 2H), 8.37 (d, 1H), 9.53 (s, 1H); m/z 283.
+
+Method 16
+
+2-Anilino-4-(2.6-dioxopiperidin-1-ylmethyl)pyrimidine
+
+By an analogous process to method 15, 5-{[(2-anilinopyrimidin-4-yl)methyl]amino}-5-oxopentanoic acid (Method 14; 3.7 g, 11.78) was converted to give the title compound (2.13 g, 61%) as a pale brown solid. NMR: 1.9 (m, 2H), 2.7 (m, 4H), 4.83 (s, 2H), 6.7 (d, 1H), 6.93 (t, 1H), 7.25 (t, 2 H), 7.67 (d, 2 H), 8.33 (d, 1H), 9.5 (s, 1H); m/z 297.
+
+Method 17
+
+2-Anilino-4-(5-methylpyrolid-2-on-1-ylmethyl)pyrimidine
+
+Methyl magnesium iodide (6.31 ml of 3M solution in ether, 19.14 mmol) was added over 5 minutes to a stirred solution of 2-anilino-4-(2,5-dioxopyrrolidin-1-ylmethyl)pyrimidine (Method 15; 1.8 g, 6.38 mmol) in dry THF (96 ml) under nitrogen at -70.degree. C. such that the reaction temperature was maintained below -65.degree. C. The reaction was stirred 1 hour at -70.degree. C. and then at ambient temperature for 90 minutes. Saturated ammonium chloride solution (50 ml) was added and the mixture stirred vigorously for 5 minutes. The mixture was then partitioned between EtOAc and water and the layers separated. The organic layer was washed with saturated brine, dried (Na.sub.2SO.sub.4) and the volatiles removed by evaporation. The residue was purified by flash chromatography eluting with DCM/MeOH (98:2 and then 96.5:3.5) to give impure aminal intermediate (0.75 g, 2.58 mmol) which was treated with triethylsilane (4.95 ml, 31 mmol) in DCM (5.0 ml) cooled to 0.degree. C. Trifluoroacetic acid (1.03 ml, 13.3 mmol) was added to the solution over 2 minutes and the mixture stirred at 0.degree. C. for 15 minutes and then at ambient temperature for 18 hours. The reaction mixture was diluted with DCM, stirred vigorously and aqueous sodium hydrogen carbonate solution added cautiously until no more effervescence was seen. The layers were separated and the organic layer washed with aqueous sodium hydrogen carbonate solution, saturated brine, dried (Na.sub.2SO.sub.4) and the volatiles removed by evaporation. The crude product was purified by absorption on to a SPE SCX ion exchange column which had been pre-equilibrated with DCM/MeOH (20:80). The column was eluted with DCM/MeOH (20:80) to remove neutrals and then with DCM/2M methanolic ammonia (80:20) to give the title compound (754 mg, 50%). NMR: 1.13 (d, 3H), 2.6 (m, 1H), 2.3 (m, 3H), 3.7 (q, 1H), 4.13 (d, 1H), 4.55 (d, 1H), 6,68 (d, 1H), 6.93 (t, 1H): 7.25 (t, 2H), 7.73 (d, 2H), 8.4 (d, 1H), 9.55 (s, 1H); m/z 283.
+
+Method 18
+
+2-Anilino-4-(6-methylpiperidin-2-on-1-ylmethl)pyrimidine
+
+By an analogous process to Method 17, 2-anilino-4-(2,6-dioxopiperidin-1-ylmethyl)pyrimidine (Method 16; 2.21 g, 7.47 mmol) was treated with methyl magnesium iodide to prepare the intermediate animal which was taken on without chromatographic purification to give the final product which was purified, after aqueous work-up, by chromatography eluting with DCM/MeOH (98:2) to give the title compound (375 mg, 17%) as a glassy solid. NMR: 1.2 (d, 3H), 1.65 (m, 2H), 1.93 (m, 2H), 2.33 (t, 2H), 3.6 (q, 1H), 4.25 (d, 1H), 4.7 (d, 1H), 6.65 (d, 1H), 6.93 (t, 1H), 7.25 (t, 2H), 7.76 (d, 2H), 8.4 (d, 1H), 9.53 (s, 1H); m/z 297.
+
+Method 19
+
+2-Anilino-4(2-hydroxethylaminomethyl)pyrimidine
+
+A suspension of 2-anilinopyrimidin-4-carbaldehyde (Method 3; 5.0 g, 25.1 mmol) and ethanolamine (1.69 g, 27.6 mmol) in MeOH (63 ml) was stirred under nitrogen at ambient temperature for 72 hours. The volatiles were removed by evaporation and the residue dissolved in EtOH (75 ml) and the solution stirred under nitrogen. Sodium borohydride (1.04 g, 27.6 mmol) was added rapidly in one portion and the mixture stirred for 20 hours at ambient temperature. The volatiles were removed by evaporation and the residue dissolved in diethyl ether and water and the aqueous layer adjusted to pH 5.5 by careful addition of concentrated hydrochloric acid. The layers were separated and the aqueous layer adjusted to pH 11.5 by careful addition of 40% aqueous sodium hydroxide solution. The aqueous layer was then extracted with DCM (.times.3) and the organic extracts combined, dried (Na.sub.2SO.sub.4) and the solvent removed by evaporation. The residue was triturated with DCM/isohexane, the solid product collected by filtration, washed with isohexane and dried to give the title compound (4.12 g, 75%) as cream solid. NMR: 2.62 (t, 2H), 3.28 (s, 2H), 3.47 (t, 2H), 4.47 (s, 1H), 6.9 (m, 2H), 7.25 (t, 2H), 7.78 (d, 2H), 8.4 (d, 1H), 9.5 (s, 1H); m/z 245.
+
+Method 20
+
+2-Anilino-4-(3-oxomorpholinomethyl)pyrimidine
+
+A solution of chloroacetyl chloride (268 mg, 2.38 mmol) in dry DCM (5 ml) was added dropwise over 10 minutes to a stirred solution of 2-anilino-4-(2-hydroxyethylaminomethyl)pyrimidine (Method 19; 582 mg, 2.38 mmol) and triethylamine (332 .mu.l, 2.38 mmol) in dry DCM (20 ml) under nitrogen. The reaction mixture was then stirred for 20 hours at ambient temperature. The mixture was diluted with DCM and washed with water (.times.2), saturated brine, dried (Na.sub.2SO.sub.4) and the volatiles removed by evaporation. The residue was dissolved in dry THF (20 ml), sodium bromide (227 mg, 2.2 mmol) added and the mixture stirred at 0.degree. C. under nitrogen sodium hydride (88 mg of a 60% dispersion in oil) was added in one portion and the reaction stirred at 0.degree. C. for 10 minutes and then at ambient temperature for 72 hours. The volatiles were removed by evaporation and the residue partition between EtOAc and water. The layers were separated and the organic layer washed with water, saturated brine, dried (Na.sub.2SO.sub.4) and the solvent removed by evaporation. The residue was purified by chromatography eluting with EtOAc. The purified product was triturated with diethyl ether, collected by filtration, washed with diethyl ether and dried to give the title compound (438 mg, 70%) as a white solid. NMR: 3.43 (t, 2H), 3.87 (t, 2H), 4.13 (s, 2H),4.52 (s, 2H), 6.72 (d, 1H), 6.93 (t, 1H), 7.25 (t 2H), 7.75 (d, 2H), 8.42 (d, 1H), 9.55 (s, 1H); m/z 285.
+
+Example 12
+
+The following illustrate representative pharmaceutical dosage forms containing the compound of formula (I), or a pharmaceutically acceptable salt or in vivo hydrolysable ester thereof (hereafter compound X), for therapeutic or prophylactic use in humans:
+
+TABLE-US-00005 (a): Tablet I mg/tablet Compound X 100 Lactose Ph.Eur 182.75 Croscarmellose sodium 12.0 Maize starch paste (5% w/v paste) 2.25 Magnesium stearate 3.0
+
+TABLE-US-00006 (b): Tablet II mg/tablet Compound X 50 Lactose Ph.Eur 223.75 Croscarmellose sodium 6.0 Maize starch 15.0 Polyvinylpyrrolidone (5% w/v paste) 2.25 Magnesium stearate 3.0
+
+TABLE-US-00007 (c): Tablet III mg/tablet Compound X 1.0 Lactose Ph.Eur 93.25 Croscarmellose sodium 4.0 Maize starch paste (5% w/v paste) 0.75 Magnesium stearate 1.0
+
+TABLE-US-00008 (d): Capsule mg/capsule Compound X 10 Lactose Ph.Eur 488.5 Magnesium stearate 1.5
+
+TABLE-US-00009 (e): Injection I (50 mg/ml) Compound X 5.0% w/v 1 M Sodium hydroxide solution 15.0% v/v 0.1 M Hydrochloric acid (to adjust pH to 7.6) Polyethylene glycol 400 4.5% w/v Water for injection to 100%
+
+TABLE-US-00010 (f): Injection II 10 mg/ml Compound X 1.0% w/v Sodium phosphate BP 3.6% w/v 0.1 M Sodium hydroxide solution 15.0% v/v Water for injection to 100%
+
+TABLE-US-00011 (g): Injection III (1 mg/ml, buffered to pH6) Compound X 0.1% w/v Sodium phosphate BP 2.26% w/v Citric acid 0.38% w/v Polyethylene glycol 400 3.5% w/v Water for injection to 100%
+
+Note
+
+The above formulations may be obtained by conventional procedures well known in the pharmaceutical art. The tablets (a)-(c) may be enteric coated by conventional means, for example to provide a coating of cellulose acetate phthalate.
+
+* * * * *

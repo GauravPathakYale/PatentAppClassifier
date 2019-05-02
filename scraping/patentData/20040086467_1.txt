@@ -1,0 +1,192 @@
+    ( 1 of 1 )
+United States Patent Application 20040086467
+Kind Code A1
+Curro, Frederick May 6, 2004
+Dental compositions for hypersensitive teeth
+
+Abstract
+A composition for the treatment of sensitive teeth comprising a desensitizing amount of: a substrate treated with a desensitizing agent, wherein substrate acts as a delivery vehicle of therapeutic agents for the treatment of hypersensitive teeth and said desensitizing agent is coated or adsorbed on the surface or attached to the surface of the substrate by chemical, electrostatic or ionic bonds; and/or b) encapsulated or impregnated within the substrate.
+Inventors: Curro, Frederick; (Emerson, NJ)
+Correspondence Address:
+    SMITHKLINE BEECHAM CORPORATION
+    CORPORATE INTELLECTUAL PROPERTY-US, UW2220
+    P. O. BOX 1539
+    KING OF PRUSSIA
+    PA
+    19406-0939
+    US
+Family ID: 32176416
+Appl. No.: 10/398558
+Filed: November 19, 2003
+PCT Filed: October 10, 2001
+PCT NO: PCT/US01/31740
+Current U.S. Class: 424/52 ; 424/53
+Current CPC Class: A61K 8/24 20130101; A61Q 11/00 20130101
+Class at Publication: 424/052 ; 424/053
+International Class: A61K 007/18; A61K 007/20
+Claims
+
+
+What is claimed is:
+
+1. A composition for reducing dentinal hypersensitivity, comprising a desensitizing amount of a substrate treated with a desensitizing agent, wherein said desensitizing agent is encapsulated or impregnated within, or coated and adsorbed onto the surface of, the substrate.
+
+2. The composition of claim 1, wherein said substrate is a porous material.
+
+3. The composition of claim 1, wherein said substrate is a non-porous material.
+
+4. The composition of claim 1, wherein said substrate is about 10 microns or less in size.
+
+5. The composition of claim 1, wherein said substrate is selected from the group consisting of silica, alumina, carbon, polyesters, styrene/methacrylate copolymers, acrylic esters, polystyrenes, polyacrylics, potassium biphosphate, calcium carbonate, zeolite, titanium dioxide, phosphate glass, and mixtures thereof.
+
+6. The composition of claim 1, wherein said desensitizing agent is selected from the group consisting of: (a) a potassium salt, a strontium salt, or mixtures thereof; (b) fluoride ions from stannous fluoride, sodium fluoride, potassium fluoride, or mixtures thereof; (c) a calcium phosphate-based compound; (d) a calcium salt; and (e) a material selected from the group consisting of glucosamine, glucosamine derivative, chondroitin sulfate, collagen, hyaluronic acid and derivatives, bone morphogenetic protein complexes, and mixtures thereof.
+
+7. The composition of claim 6, wherein said calcium phosphate-based compound is selected from the group consisting of hydroxyapatite Ca.sub.10(PO.sub.4).sub.6(OH).sub.2, fluoroapatite Ca.sub.10(PO.sub.4).sub.6F.sub.2, chloroapatite Ca.sub.10(PO.sub.4).sub.6- Cl.sub.2, tricalcium phosphate Ca.sub.10(PO.sub.4).sub.2, and mixtures thereof.
+
+8. The composition of claim 6, wherein said calcium salt is selected from the group consisting of calcium gluconate, calcium carbonate, tricalcium phosphate, dicalcium phosphate, dolomite, and mixtures thereof.
+
+9. The composition of claim 6, wherein said glucosamine derivative is selected from the group consisting of 2-deoxy-D-glucose, 2-deoxy-D-galactose, mannose, D-mannosamine, D-galactosamine, glucosamine-6-phosphate, N-acetyl-D-glucosamine, N-acetyl-D-galactosamine- , uridine diphosphate (UDP) glucose, UDP-N-acetylglucosamine, and mixtures thereof.
+
+10. The composition of claim 6, wherein the desensitizing agent is selected from the group consisting of potassium bicarbonate, potassium citrate, potassium chloride, potassium nitrate, strontium chloride, strontium acetate, strontium nitrate, and potassium or strontium salts of other similar conjugate acids, and mixtures thereof.
+
+11. The composition of claim 1, wherein said substrate treated with a desensitizing agent is present in an amount of about from about 1 to 70 wt. %, and said desensitizing agent is in an amount of about 0.1 to 15 wt. %, of the final formulation.
+
+12. The composition of claim 1, wherein said substrate treated with a desensitizing agent is present in an amount of about from about 2 to 50 wt. %, and said desensitizing agent is in an amount of about 0.5 to 10 wt. %, of the final formulation.
+
+13. The composition of claim 11, further including a desensitizing agent selected from the group consisting of potassium bicarbonate, potassium citrate, potassium chloride, potassium nitrate, strontium chloride, strontium acetate, strontium nitrate, and potassium or strontium salts of other similar conjugate acids, and mixtures thereof.
+
+14. The composition of claim 11 in the form of a dentifrice.
+
+15. A method for reducing dentinal hypersensitivity in a sensitive tooth, comprising the step of administering to said sensitive tooth a composition comprising a desensitizing amount of a substrate treated with a desensitizing agent, wherein said desensitizing agent is encapsulated or impregnated within, or coated and adsorbed onto the surface of, the substrate.
+
+16. The method of claim 15, wherein said desensitizing agent is selected from the group consisting of: (a) a potassium salt, a strontium salt, or mixtures thereof; (b) fluoride ions from stannous fluoride, sodium fluoride, potassium fluoride, or mixtures thereof; (c) a calcium phosphate-based compound; (d) a calcium salt; and (e) a material selected from the group consisting of glucosamine, glucosamine derivative, chondroitin sulfate, collagen, hyaluronic acid and derivatives, bone morphogenetic protein complexes, and mixtures thereof.
+
+17. The method of claim 15, wherein said substrate is a porous material.
+
+18. The method of claim 15, wherein said substrate is a non-porous materials.
+
+19. The method of claim 15, wherein said substrate is about 10 microns or less in size.
+
+20. The method of claim 15, wherein said substrate is selected from the group consisting of silica, alumina, carbon, polyesters, styrene/methacrylate copolymers, acrylic esters, polystyrenes, polyacrylics, potassium biphosphate, calcium carbonate, zeolite, titanium dioxide, phosphate glass, and mixtures thereof.
+Description
+
+
+FIELD OF INVENTION
+
+[0001] The invention relates to compositions for the treatment of dentinal hypersensitivity and methods for the treatment of dentinal hypersensitivity using a substrate that is treated with a desensitizing agent.
+
+BACKGROUND OF THE INVENTION
+
+[0002] Dentinal hypersensitivity is a temporary induced pain sensation produced when hypersensitive teeth are subjected to changes in temperature, pressure or chemical action. Hypersensitivity may occur whenever the dentin or cementum of a tooth is exposed by attrition or abrasion, or when the tooth's finer root surface is exposed by periodontal disease. Dentin generally contains channels, called tubules, that allow material and energy transport between the exterior of the dentin and the interior of the tooth where the nerve is located.
+
+[0003] Many attempts have been made to control dentinal hypersensitivity. One approach is to reduce the excitability of the nerve in a sensitive tooth by altering the chemical environment of the nerve by using agents to make the nerve less sensitive. These agents are generally referred to as "nerve agents" or "nerve desensitizing agents." The most well known agent for this purpose is potassium nitrate, used in commercial dentifrices for sensitive teeth and discussed in U.S. Pat. No. 3,863,006. U.S. Pat. Nos. 4,631,185 and 4,751,072 disclose the desensitization of teeth using oral compositions comprising potassium salts such as potassium bicarbonate and potassium chloride, while U.S. Pat. No. 4,990,327 describes the desensitization of teeth with strontium and fluoride ions. U.S. Pat. No. 3,888,976 discloses the treatment of sensitive teeth using zinc and strontium ions.
+
+[0004] Another approach to controlling dentinal hypersensitivity is to use agents that fully or partially occlude tubules. These agents are referred to as "tubule blocking agents." U.S. Pat. No. 5,211,939 reports the use of charged polystyrene beads as tubule blocking agents. U.S. Pat. Nos. 4,634,589 and 4,710,372 disclose the use of apatite as a tubule-blocking agent. U.S. Pat. No. 5,589,159 teaches the use of Laponite or hectorite clay to seal dentinal tubules. U.S. Pat. No. 5,270,031 discloses the use of a polyacrylic acid having a typical molecular weight from about 450,000 to about 4,000,000 as a tubule blocking agent. U.S. Pat. No. 4,362,713 discloses the use of water-soluble or water-swellable polyelectrolytes, or salts thereof, as tubule blocking agents.
+
+[0005] U.S. Pat. No. 4,590,067 discloses the use of glucosamine, commonly known to have an anti-inflammatory effect when taken orally, in an oral composition for preventing and treating periodontal disease. U.S. Pat. No. 4,855,128 discloses the use of chondroitin sulfate, commonly used in bone restoration applications, in a composition for inhibiting plaque. U.S. Pat. No. 6,110,208 discloses a formulation for use as artificial skin containing a hyaluronic acid derivative. U.S. Pat. No. 5,916,553 discloses the use of bone inducing protein complex for inducing the growth of bone in an animal.
+
+[0006] It is known in the prior art to use microspheres onto which an active chemotherapeutic substance is adsorbed by chemical, electrostatic or ionic bonds to accelerate the rate at which wounds heal or bone regenerates, or for controlled sustained release of active chemotherapeutic substances in treatments. When the microspheres are hollow, they are both adsorbent and/or carriers of the functional groups, encapsulating the chemotherapeutic substance. When the microspheres are not hollow or contain pores on the surface, bonding with a pharmaceutical or cosmetic substance consists of adsorption into the pores or onto the surface. U.S. Pat. No. 5,264,207 discloses microspheres of a polymer which act as carriers for one or more active pharmaceutical or cosmetic substances.
+
+[0007] In the dentifrice art, U.S. Pat. No. 5,565,206 discloses toothpaste compositions comprising particles having anti-microbial agents adsorbed onto the particles. U.S. Pat. Nos. 5,211,939 and 5,250,288 describe the use of microspheres having charged polymeric particles adsorbed onto the surface to desensitize a hypersensitive tooth. Taking a different and opposite approach, U.S. Pat. No. 4,157,387 discloses coating hard mineral substances, such as silica, with a water-soluble cationic polymer, forming a "coated abrasive," so that less of the therapeutic agent such as stannous fluoride, strontium chloride, and the like, is adsorbed by the coated abrasive and more of the therapeutic agent in free form is available for treatment of the teeth.
+
+[0008] In the present invention, therapeutic agents are allowed to be directly adsorbed onto, or encapsulated within, a substrate such as silica, and the like, so that the substrate itself acts as a delivery vehicle of the therapeutic agent for the treatment of hypersensitive teeth.
+
+SUMMARY OF THE INVENTION
+
+[0009] The invention provides a composition for desensitizing teeth comprising a desensitizing amount of a substrate treated with at least a desensitizing agent, wherein the substrate treated with the desensitizing agent deposits or swells upon the dentinal surface and/or precipitates within the dentinal tubules, providing a concentrated and sustained release of the nerve desensitizing agent at the exposed dentinal surface and within the dentinal tubules.
+
+[0010] The invention further provides a method for desensitizing hypersensitive teeth by applying thereto a desensitizing amount of an oral composition comprising a substrate treated with at least a desensitizing agent, wherein the substrate deposits or swells upon the dentinal surface and/or precipitates within the dentinal tubules, providing a concentrated amount of the desensitizing agent at the exposed dentinal surface and within the dentinal tubules.
+
+[0011] This invention also discloses a method for preparing a composition for desensitizing teeth comprising a desensitizing amount of a composition comprising a substrate treated with at least a desensitizing agent.
+
+DETAILED DESCRIPTION OF THE INVENTION
+
+[0012] By "substrate," as used herein, means the microspheres on which the desensitizing agent is: (a) coated or adsorbed on the surface or attached to the surface by chemical, electrostatic or ionic bonds; and/or (b) encapsulated or impregnated within.
+
+[0013] By "microspheres," as used herein, means hollow porous or non-porous particles, particulate, or materials that can be irregularly shaped or spherically shaped.
+
+[0014] By "desensitizing agent," as used herein, means a material that reduces the excitability of the nerve in a sensitive tooth by: (a) altering the chemical environment of the nerve by using agents to make the nerve less sensitive; (b) promoting healing of the enamel or cemetum of the teeth; or (c) promoting regeneration of bone tissues to close the dentin tubules.
+
+[0015] By "treated with," "treated," or "treating," as used herein interchangeably, means the process to cause or result in the encapsulation, impregnation, coating, or adsorption of the desensitizing agent within, or onto, the surface of the substrate.
+
+[0016] The active component of the present invention is a substrate treated with a desensitizing agent or a mixture thereof.
+
+[0017] The desensitizing agent for use in treating the substrate of the present invention includes a variety of anti-hypersensitivity agents or nerve desensitizing agents commonly known, i.e., agents that are neuroactive, and/or ions or salts which have a pain reducing or analgesic activity, are suitable for use to coat the substrate. Examples of nerve agents include without limitation, potassium or strontium salts, including potassium bicarbonate, potassium citrate, potassium chloride, potassium nitrate, strontium chloride, strontium acetate, strontium nitrate, and potassium or strontium salts of other similar conjugate acids, and mixtures thereof.
+
+[0018] In one embodiment, physiologically acceptable fluoride ions which have been reported to have a pain reducing or analgesic activity such as stannous fluoride, sodium fluoride, potassium fluoride, mixtures thereof or the like, are used as the desensitizing agents.
+
+[0019] In yet another embodiment of the invention, materials commonly known for bone or tooth regeneration such as calcium phosphate-based compounds, are used as the desensitizing agents for treating the substrate. Calcium phosphate-based compounds, in particular synthetic hydroxyapatite represented by Ca.sub.10(PO.sub.4).sub.6(OH).sub.2, have the same composition as the inorganic main components of teeth and bones. In addition to the hydroxyapatite Ca.sub.10(PO.sub.4).sub.6(OH).sub.2 already mentioned, fluoroapatite Ca.sub.10(PO.sub.4).sub.6F.sub.2, chloroapatite Ca.sub.10(PO.sub.4).sub.6Cl.sub.2, tricalcium phosphate Ca.sub.10(PO.sub.4).sub.2 and various other kinds of known calcium phosphate-based compounds may be employed in the present invention. Such calcium phosphate-based compounds can be synthesized by known wet and dry methods.
+
+[0020] In the same type of embodiment employing a bone or tooth regeneration material, biologically compatible calcium salts well-recognized in the art such as calcium gluconate, calcium carbonate, tricalcium and dicalcium phosphate, dolomite, and the like are used as the material to treat the substrate.
+
+[0021] In yet a fourth embodiment, materials which are reported to have an effect on bone or cartilage renewal or rebuilding such as glucosamine and chondroitin sulfates are used as a desensitizing agent to treat the substrate. Glucosamine when used in the form of the salt with hydrochloric, sulfuric, phosphoric, or other biocompatible acid, is known to have an anti-inflammatory effect when taken orally or parenterally. Also useful are sugars and sugar derivatives of similar activity including 2-deoxy-D-glucose, 2-deoxy-D-galactose, mannose, D-mannosamine, D-galactosamine, glucosamine-6-phosphate, N-acetyl-D-glucosamine, N-acetyl-D-galactosamine, uridine diphosphate (UDP) glucose, UDP-N-acetylglucosamine, and the like.
+
+[0022] The fifth embodiment employs another material also well known for its effects on healing bone fractures and cartilage defects in humans and other animals, i.e., bone morphogenetic protein (BMP) complexes. Bone protein complexes are typically isolated from almost any mammalian bone, and preferably calf bone due to its availability in large quantities.
+
+[0023] In the sixth embodiment, hyaluronic acid derivatives and collagen, materials that are commonly for use in skin rebuilding, are used to treat the substrate. The hyaluronic acid and/or salts thereof and/or homologues, analogues, derivatives, complexes, esters, fragments, and sub-units of hyaluronic acid, are used in a form that is biocompatible. In one embodiment, the hyaluronic acid derivative is sodium hyaluronate.
+
+[0024] "Beads" of materials such as polyesters, copolymers like styrene/methacrylate or other acrylic esters, polystyrenes, polyacrylics, carbon, silica, alumina, potassium biphosphate, calcium carbonate, zeolite, titanium dioxide, phosphate glass, and the like, can be used as the substrate for the desensitizing agent of the present invention. The substrate is generally of a size of about 10 microns or less, and preferably from about 0.5 to about 2 microns. The substrate particles can be spherical or irregular in shape. The particles can be hollow, porous, or non-porous.
+
+[0025] In one embodiment, polystyrene microspheres are used as the substrate. Polystyrene microspheres are commercially available from a number of sources having either a positively or a negatively charged surface, packaged as a suspension in distilled water, and having an average diameter of about 1 micron or less.
+
+[0026] In another embodiment, silicate-containing materials are used as the substrate, i.e., silica gels or glasses, in porous or non-porous forms. Large numbers of materials of these types are commercially available, for example Controlled-Pore Glass.TM. from Electro-Nucleonics, Inc., USA; and Nucleosil.TM. supplied by Machery & Nagel, Duren, Germany. In one embodiment, the silica is a dispersion of inorganic oxide particles available from W. R. Grace, USA, having an average particle size of 3 microns or less. In another embodiment, the substrate is a different silica also available from W. R. Grace, USA under the trade name of Sylodent.RTM. and having an average particle size of 10 microns or less.
+
+[0027] There are various methods known in the prior art to coat or absorb the desensitizing agents onto the substrate or to impregnate/encapsulate the desensitizing agent within the substrate. For example, U.S. Pat. No. 4,054,689 discloses a method to provide fluoride values in dentifrice formulation by treating with hydrogen fluoride vapors.
+
+[0028] Another approach is to coat or absorb the desensitizing agents onto the surface of the substrate by using a technology commonly used in producing packing materials for liquid chromatography applications, in which the substrate is treated by methods such as sputtering, agglomeration by spray drying, or agglomeration by rolling and tumbling.
+
+[0029] Yet another approach is to encapsulate the desensitizing agent or coating the substrate with the desensitizing agent by procedures generally described in Parrott, Pharmaceutical Technology, pp. 86-91 (Burgess Pub. Co. 1970); Deasy, Microencapsulation and Related Drug Procedures, pp. 1-60 (Marcel Dekker, Inc. 1984); Muller et al., J. Controlled Release, 20 (1992):237-246; Pekarek et al., Nature, vol. 367 (1994):258-60; Muller et al., Pharm. Pharmacol. Lett. vol. 3 (1993):67-70; and Juliano (ed.), Drug Delivery Systems (Oxford University Press 1980). These include solvent evaporation methods, with or without a surface active agent as necessary, coacervation in all its various forms, pan coating, air-suspension coating, press coating, spray-drying, rotational suspension-separation techniques, melt coating methods, interfacial polymerization, melt-granulation processes and any and all related methods that yield the desired substrate as described.
+
+[0030] Depending on the method and the type of substrate used, the substrate may need to have charge opposite the desensitizing agent for coating, adsorption or encapsulation to occur and to provide a sufficient amount of desensitizing agent needed for the composition.
+
+[0031] The substrate treated with a desensitizing agent, or mixtures thereof, is incorporated in the composition of the present invention in an amount from about 1 to about 70 wt. % depending on the type of substrate used. In one embodiment, the amount is about 2 to 50 wt. %. In a second embodiment, it is about 3 to 20 wt. %, and yet in a third embodiment, the substrate treated with a desensitizing agent is about 5 to about 15 wt. % of the formulation.
+
+[0032] The desensitizing agent itself is incorporated in the final formulation in a desensitizing effective amount. This will vary depending on the particular type and form of oral composition, the substrate used, and other materials present. In one embodiment, the desensitizing agent is present in an amount of about 0.1 to 15 wt. % of the final formulation. In another embodiment, it is present in an amount of about 0.5 to 10 wt. % of the final formulation. In a third embodiment, it is present in an amount of about 2 to 5 wt. % of the final formulation.
+
+[0033] The compositions of the present invention are typically in the form of toothpastes or dentifrices to be brushed on the teeth. However, other delivery systems may also be used, including without limitation, tooth powder, mouthwash, lozenge, buccal adhesive patch, oral spray, coatings or chewing gum, and the like. For these delivery systems, one of skill in the art will be able to determine the amounts of the various agents described herein in order to achieve the desired effect.
+
+[0034] Ingredients typically included in oral health care compositions may be used in the compositions in accordance with the invention. Optional ingredients include, without limitation, known desensitizing agents in free form such as potassium nitrate, potassium chloride, potassium bicarbonate and strontium chloride. Other ingredients include without limitation, abrasive polishing materials, sudsing agents, flavoring agents, humectants, binders, sweetening agents, and water.
+
+[0035] Abrasives which may optionally be used in the compositions of the invention include without limitation, alumina and hydrates thereof, such as alpha alumina trihydrate, magnesium trisilicate, magnesium carbonate, aluminosilicate, such as calcined aluminum silicate and aluminum silicate, calcium carbonate, zirconium silicate, polymethylmethacrylate, powdered polyethylene, silica xerogels, hydrogels and aerogels and the like. Also suitable as abrasive agents are calcium pyrophosphate, insoluble sodium metaphosphate, calcium carbonate, dicalcium orthophosphate, particular hydroxyapatite, and the like. Depending on the form that the oral composition is to take and whether the substrate is an abrasive-based material, the abrasive may be present in an amount of from 0 to 70 wt. %.
+
+[0036] Humectants contemplated for use include without limitation, glycerol, polyol, sorbitol, polyethylene glycols, propylene glycol, hydrogenated partially hydrolyzed polysaccharides, and the like. The humectants are generally present in amounts of from 0 to 80 wt. %, and preferably 5 to 70 wt. % for toothpastes. Thickeners suitable for use in the invention include without limitation, silica. Thickeners may be present at a level from about 0.1 to 20 wt. %.
+
+[0037] Binders suitable for use in the compositions of the invention include without limitation, hydroxyethyl cellulose, and hydroxypropyl cellulose, as well as xanthan gums, Iris moss and gum tragacanth. Binders may be present in the amount from 0.01 to 5 wt. %.
+
+[0038] Sweeteners suitable for use may be present at levels of about 0.1 to 10 wt. %, and include without limitation, saccharin and xylitol.
+
+[0039] Fluoride sources commonly used in oral health care compositions such as sodium fluoride, stannous fluoride, sodium monofluorophosphate, zinc ammonium fluoride, tin ammonium fluoride, calcium fluoride and cobalt ammonium fluoride may be included for providing anti-caries benefit. Preferred compositions of the invention include a fluoride source. Fluoride ions are typically provided at a level of from 0 to 1500 ppm, preferably 50 to 1500 ppm, although higher levels up to about 3000 ppm may be used.
+
+[0040] Surfactants, such as a soap, anionic, nonionic, cationic, amphoteric and/or zwitterionic, may be present within the range of 0 to 15 wt. %, preferably 0.1 to 15 wt. %, more preferably 0.25 to 10 wt. %. Anionic and/or nonionic surfactants are most preferred, such as sodium lauroyl sulfate, sodium lauroyl sarcosinate and sodium dodecylbenzene sulfonate. Flavors are usually included in low amounts, such as from about 0.01 to 5 wt. %, especially from 0.1 to 5 wt. %.
+
+[0041] Antibacterial agents include without limitation, phenolics and salicylamides, and sources of certain metal ions such as zinc, copper, silver and stannous (e.g. zinc, copper and stannous chloride, and silver nitrate) may also be, and preferably are, included.
+
+[0042] Dyes/colorants suitable for oral health care compositions, e.g., FD&C Blue #1, FD&C Yellow #10, FD&C Red #40, etc., may be included in the compositions of this invention.
+
+[0043] Various other optional ingredients may be included in the compositions of the invention such as preservatives, vitamins such as vitamin C and E, other anti-plaque agents such as stannous salts, copper salts, strontium salts and magnesium salts. Also included may be pH adjusting agents; anti-caries agents such as calcium glycero-phosphate, sodium trimetaphosphate; anti-staining compounds such as silicone polymers, plant extracts, and mixtures thereof. Additionally, polymers, particularly anionic polymers, such as polycarboxylates or polysulfonates, or polymers containing both a carboxylate and a sulfonate moiety, phosphonate polymers or polyphosphates, may be included.
+
+[0044] Ingredients mentioned above are conventional ingredients suitable for oral care compositions e.g., toothpastes, gels, gums, powders, etc. Except where otherwise noted, references to toothpastes are to be construed as applying to gels as well.
+
+[0045] The compositions of this invention are prepared by conventional methods of making oral health care formulations by mixing the ingredients in an order that is convenient to achieve the desired effects. For instance, forming a gel with gelling agent and water and then adding other ingredients in toothpaste and gel dentifrice embodiments. In dentifrice form, the composition may be packaged in a conventional plastic laminate or metal tube or a dispenser, or present in separate phases to enhance appearance. It may be applied to dental surfaces by any physical means, such as a toothbrush, fingertip or by an applicator directly to the sensitive area. Solid dosage form examples include pastilles, lozenges, chewing gums, tablets, mouthstrips, balms and the like.
+
+EXAMPLES
+
+[0046] The instant invention will be demonstrated in the following non-limiting examples. In these examples, all temperatures are in degrees centigrade and all parts and percentages are by weight, unless otherwise indicated.
+
+[0047] Example 1 is comparative, using a traditional known desensitizing agent in its free form. Examples 2-6 are formulae of the present invention, employing a substrate treated with a desensitizing agent.
+
+1TABLE 1 Comparative Example Example Example Example Ingredients in wt. % Example 1 2 3 4 5 Potassium Nitrate 5.0 0 0 0 0 Hydrated silica treated with 0 25 0 0 0 Potassium Nitrate (4%) Hydrated silica treated with 0 0 25 0 0 4% Glucosamine Hydrated silica treated with 0 0 0 25 0 4% Hydroxyapatite Hydrated silica treated with 0 0 0 0 25 4% Collagen Titanium Dioxide, FD&C .about.0.5 .about.0.5 .about.0.5 .about.0.5 .about.0.5 Blue#1, and D&C Yellow#10 Triclosan 0.3 0.3 0.3 0.3 0.3 Sodium Fluoride 0.31 0.25 0.25 0.24 0.24 Sorbitol 25 30 30 30 30 Xanthan gum 0.5 0.2 0.25 0.25 0.5 Carboxymethyl cellulose 0.5 0.2 0.25 0.25 0.5 Flavor 1 1 1 1 1 Sodium saccharin 0.3 0.3 0.3 0.3 0.3 Poloxamer 407 1 1 1 1 1 Sodium lauroyl sarcosinate 0.6 0.6 0.6 0.6 0.6 Sodium hydroxide 1.2 1.2 1.2 0.2 0.3 Water q.s. 100 q.s. 100 q.s. 100 q.s. 100 q.s. 100
+
+Example 6
+
+[0048] A chewing gum in accordance with the invention is made using the formulation in Table 2. The chewing gum base is softened at 65.degree. C. using a sigma blade mixer, cooled to 60.degree. C. and 3/5 of the sorbitol powder, 1/2 of the lecithin and the superabsorbent polymer are added. After cooling to 50.degree. C., the rest of the sorbitol powder, lecithin, and flavor is added. The mixture is then rolled into patties and cut into strips.
+
+2TABLE 2 Gum Formulation INGREDIENT WEIGHT % Chewing Gum NOVA Base "A" 27.64% Glycerin 1% Calcium saccharin 0.06% Sorbitol powder 53.5% Lycasin 13% Lecithin 0.8% Flavor 1% Silica treated w/4 wt. % glucosamide 3%
+
+Example 7
+
+[0049] A lozenge in accordance with the invention is prepared having the formulation set forth in the Table 3. The sorbitol and xylitol are heated at 165.degree. C. until the base starts to thicken. The combination is cooled to 140.degree. C. and citric acid is added. After cooling to 100.degree. C., the gelatin is added and after cooling to 50.degree. C., the flavor and superabsorbent polymer are added. Cooling is continued and a seed crystal of sorbitol is added to start crystallization. The mixture is then poured into molds to form lozenges.
+
+3TABLE 3 Lozenge Formulation INGREDIENT WEIGHT % Sorbitol 81.5% Xylitol 6% Citric Acid 0.4% Sodium Hydroxide 0.5% Silica treated w/stannous fluoride 2% Flavor 0.1% Gelatin 7% Polyacrylate 2% Potassium Nitrate 3%
+
+* * * * *
